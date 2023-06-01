@@ -30,19 +30,19 @@ The `git/` directory contains my Git configuration files. This includes `.gitcon
 
 The `vim/` directory contains my Vim configuration in Lua. This file allows me to set global preferences for Vim and add custom commands. Please see separate README inside the nvim-directory.
 
-## Yabai
+### Yabai
 
 The `yabai/` directory contains configuration files for Yabai, a window manager for macOS.
 
-## SKHD
+### SKHD
 
 The `skhd/` directory contains configuration files for SKHD, a simple hotkey daemon for macOS.
 
-## Fish
+### Fish
 
 Configuration files for the Fish shell reside in the `fish/` directory.
 
-## Oh My Fish (omf)
+### Oh My Fish (omf)
 
 The `omf/` directory contains my Oh My Fish configuration. Oh My Fish provides themes and plugins for the Fish shell.
 
