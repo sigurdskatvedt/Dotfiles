@@ -4,6 +4,7 @@ This repository contains personal configuration files, also known as "dotfiles".
 
 ## Structure
 
+```plaintext
 .config/
 │
 ├── nvim/            # Neovim configuration
@@ -12,7 +13,7 @@ This repository contains personal configuration files, also known as "dotfiles".
 ├── fish/           # Fish shell configuration
 ├── omf/            # Oh My Fish configuration
 └── README.md       # This document
-
+```
 
 
 ## Configurations
