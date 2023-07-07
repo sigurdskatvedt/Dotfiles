@@ -3,15 +3,20 @@ vim.opt.nu = true
 vim.opt.relativenumber = true
 
 -- Tab width of 4
-vim.opt.tabstop = 4
-vim.opt.softtabstop = 4
-vim.opt.shiftwidth = 4
+vim.opt.tabstop = 2
+vim.opt.softtabstop = 2
+vim.opt.shiftwidth = 2
 -- Use spaces instead of tab
 vim.opt.expandtab = true
 
 -- Smart indentation, match the previous indentation or add/remove in 
 -- certain cases
 vim.opt.smartindent = true
+
+-- Smart case, defaults to case insensitive search but switches to sensitive
+-- search if you include capital letter
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
 
 -- Store undo in directory instead of swapfile to enable undos from previous 
 -- session

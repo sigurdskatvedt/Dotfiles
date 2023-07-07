@@ -11,12 +11,24 @@ vim.keymap.set("v", "l", "k")
 vim.keymap.set("v", "k", "j")
 vim.keymap.set("v", "j", "h")
 
+-- Window movement remap for Norwegian keyboard
+vim.keymap.set("n", "<C-w>ø", "<C-w>l")
+vim.keymap.set("n", "<C-w>l", "<C-w>k")
+vim.keymap.set("n", "<C-w>k", "<C-w>j")
+vim.keymap.set("n", "<C-w>j", "<C-w>h")
+vim.keymap.set("v", "<C-w>ø", "<C-w>l")
+vim.keymap.set("v", "<C-w>l", "<C-w>k")
+vim.keymap.set("v", "<C-w>k", "<C-w>j")
+vim.keymap.set("v", "<C-w>j", "<C-w>h")
+
+
 -- Highlighted rows can be moved with K and J
-vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
-vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
+vim.keymap.set("v", "L", ":m '<-2<CR>gv=gv")
+vim.keymap.set("v", "K", ":m '>+1<CR>gv=gv")
 
 -- Action of J keeps cursor at the same location
 vim.keymap.set("n", "J", "mzJ`z")
+
 
 -- Keeps cursor in the middle of the screen when using CTRL+d or CTRL+u
 vim.keymap.set("n", "<C-d>", "<C-d>zz")
@@ -66,7 +78,53 @@ vim.keymap.set("n", "<C-æ>", function() ui.nav_file(5) end)
 -- FUGITIVE --
 vim.keymap.set("n", "<leader>gs", vim.cmd.Git)
 
--- NVIM-TREE.LUA
+-- NVIM-TREE.LUA -- 
 vim.keymap.set("n", "<leader>n", ":NvimTreeToggle<CR>")
 vim.keymap.set("n", "<leader>N", ":NvimTreeFindFile<CR>")
 
+
+-- TROUBLE.NVIM --
+vim.keymap.set("n", "<leader>xx", "<cmd>TroubleToggle<cr>",
+  {silent = true, noremap = true}
+)
+vim.keymap.set("n", "<leader>xw", "<cmd>TroubleToggle workspace_diagnostics<cr>",
+  {silent = true, noremap = true}
+)
+vim.keymap.set("n", "<leader>xd", "<cmd>TroubleToggle document_diagnostics<cr>",
+  {silent = true, noremap = true}
+)
+vim.keymap.set("n", "<leader>xl", "<cmd>TroubleToggle loclist<cr>",
+  {silent = true, noremap = true}
+)
+vim.keymap.set("n", "<leader>xq", "<cmd>TroubleToggle quickfix<cr>",
+  {silent = true, noremap = true}
+)
+vim.keymap.set("n", "gR", "<cmd>TroubleToggle lsp_references<cr>",
+  {silent = true, noremap = true}
+)
+
+-- TODO-COMMENTS --
+vim.keymap.set("n", "]t", function()
+  require("todo-comments").jump_next()
+end, { desc = "Next todo comment" })
+vim.keymap.set("n", "[t", function()
+  require("todo-comments").jump_prev()
+end, { desc = "Previous todo comment" })
+
+
+-- REFACTORING --
+-- remap to open the Telescope refactoring menu in visual mode
+vim.api.nvim_set_keymap(
+	"v",
+	"<leader>rr",
+	"<Esc><cmd>lua require('telescope').extensions.refactoring.refactors()<CR>",
+	{ noremap = true }
+)
+
+-- GIT-CONFLICT --
+vim.keymap.set('n', '<leader>co', '<Plug>(git-conflict-ours)')
+vim.keymap.set('n', '<leader>ct', '<Plug>(git-conflict-theirs)')
+vim.keymap.set('n', '<leader>cb', '<Plug>(git-conflict-both)')
+vim.keymap.set('n', '<leader>c0', '<Plug>(git-conflict-none)')
+vim.keymap.set('n', '<leader>]x', '<Plug>(git-conflict-prev-conflict)')
+vim.keymap.set('n', '<leader>[x', '<Plug>(git-conflict-next-conflict)')
