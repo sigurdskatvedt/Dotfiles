@@ -18,10 +18,6 @@ This repository contains personal configuration files, also known as "dotfiles".
 
 ## Configurations
 
-### Bash
-
-The `bash/` directory contains my custom Bash shell configuration files. It includes the `.bashrc` file, which is executed each time a new terminal session is started.
-
 ### Git
 
 The `git/` directory contains my Git configuration files. This includes `.gitconfig` and `.gitignore_global` files, allowing me to set global Git preferences.
