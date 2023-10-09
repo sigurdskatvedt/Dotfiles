@@ -31,8 +31,8 @@ trouble.setup({
     close_folds = { "zM", "zm" },    -- close all folds
     open_folds = { "zR", "zr" },     -- open all folds
     toggle_fold = { "zA", "za" },    -- toggle fold of current file
-    previous = "k",                  -- previous item
-    next = "j"                       -- next item
+    previous = "l",                  -- previous item
+    next = "k"                       -- next item
   },
   indent_lines = true,               -- add an indent guide below the fold icons
   auto_open = false,                 -- automatically open the list when you have diagnostics

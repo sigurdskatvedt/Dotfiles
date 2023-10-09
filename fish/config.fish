@@ -1,6 +1,5 @@
 ### EXPORT ###
 set fish_greeting                                 # Supresses fish's intro message
-set TERM "xterm-256color"                         # Sets the terminal type
 
 ### "nvim" as manpager
 set -x MANPAGER "nvim -c 'set ft=man' -"
@@ -127,4 +126,12 @@ alias tag='git tag'
 alias newtag='git tag -a'
 
 starship init fish | source
+
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+if test -f /Users/sigurdskatvedt/anaconda3/bin/conda
+    eval /Users/sigurdskatvedt/anaconda3/bin/conda "shell.fish" "hook" $argv | source
+end
+# <<< conda initialize <<<
 

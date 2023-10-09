@@ -6,6 +6,7 @@ vim.opt.relativenumber = true
 vim.opt.tabstop = 2
 vim.opt.softtabstop = 2
 vim.opt.shiftwidth = 2
+
 -- Use spaces instead of tab
 vim.opt.expandtab = true
 
@@ -41,3 +42,6 @@ vim.opt.isfname:append("@-@")
 
 -- Vertical column at the 80th character to help keep lines short
 vim.opt.colorcolumn = "80"
+
+vim.opt.foldmethod ="indent"
+vim.opt.foldlevel=50

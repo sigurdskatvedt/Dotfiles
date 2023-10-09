@@ -1,5 +1,8 @@
 live_config_reload: true
 
+env:
+  TERM: xterm-256color
+
 window:
   opacity: 0.85
   padding:
@@ -10,6 +13,16 @@ window:
 
 font:
   normal:
-    family: "SFMono Nerd Font"
+    family: "MesloLGL Nerd Font Mono"
     style: Regular
+  # Bold font face
+  bold:
+    family: "MesloLGL Nerd Font Mono"    # The `style` can be specified to pick a specific face.
+    style: Bold
+
+  # Italic font face
+  italic:
+    family: "MesloLGL Nerd Font Mono"
+    # The `style` can be specified to pick a specific face.
+    style: Italic
   size: 14.0

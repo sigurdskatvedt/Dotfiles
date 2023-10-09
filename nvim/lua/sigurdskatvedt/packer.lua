@@ -28,18 +28,34 @@ return require('packer').startup(function(use)
   use("lukas-reineke/indent-blankline.nvim")
   use("folke/todo-comments.nvim")
   use("xiyaowong/transparent.nvim")
-  use {'akinsho/git-conflict.nvim', tag = "*"}
+  use('barrett-ruth/import-cost.nvim')
+
+  use {
+    "nvim-neorg/neorg",
+    run = ":Neorg sync-parsers",
+    requires = "nvim-lua/plenary.nvim",
+  }
+  use "nvim-neorg/neorg-telescope"
+  use({
+    "kylechui/nvim-surround",
+    tag = "*", -- Use for stability; omit to use `main` branch for the latest features
+  })
+  use { 'akinsho/git-conflict.nvim', tag = "*" }
 
   use {
     'numToStr/Comment.nvim',
   }
+  use({
+    'Wansmer/treesj',
+    requires = { 'nvim-treesitter' },
+  })
   use {
     "ThePrimeagen/refactoring.nvim",
     requires = {
-        {"nvim-lua/plenary.nvim"},
-        {"nvim-treesitter/nvim-treesitter"}
+      { "nvim-lua/plenary.nvim" },
+      { "nvim-treesitter/nvim-treesitter" }
     }
-}
+  }
 
   use {
     "klen/nvim-test",
@@ -70,10 +86,14 @@ return require('packer').startup(function(use)
       { 'hrsh7th/cmp-nvim-lsp' }, -- Required
       { 'L3MON4D3/LuaSnip' },     -- Required
       { 'neovim/nvim-lspconfig' },
-      {'hrsh7th/cmp-buffer' },
+      { 'hrsh7th/cmp-buffer' },
       { 'hrsh7th/cmp-path' },
-      { 'hrsh7th/cmp-cmdline'},
+      { 'hrsh7th/cmp-cmdline' },
     }
+  }
+  use {
+    "williamboman/mason-lspconfig.nvim",
+    "neovim/nvim-lspconfig",
   }
 
   use({

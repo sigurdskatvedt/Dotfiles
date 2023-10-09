@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "create-next-app": "^13.4.7",
+    "emmet-ls": "^0.4.2",
     "graphql": "^16.7.1",
-    "graphql-language-service-cli": "^3.3.24"
+    "graphql-language-service-cli": "^3.3.25"
   }
 }

@@ -1,5 +1,6 @@
 -- Space is leader
 vim.g.mapleader = " "
+vim.g.maplocalleader = ","
 
 -- Remap to fit to fit with Norwegian keyboard
 vim.keymap.set("n", "ø", "l")
