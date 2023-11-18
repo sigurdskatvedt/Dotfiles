@@ -1,6 +1,8 @@
 ### EXPORT ###
 set fish_greeting                                 # Supresses fish's intro message
 
+pyenv init - | source
+
 ### "nvim" as manpager
 set -x MANPAGER "nvim -c 'set ft=man' -"
 

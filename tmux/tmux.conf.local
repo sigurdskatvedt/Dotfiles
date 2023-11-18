@@ -16,6 +16,9 @@ set -g default-terminal "tmux-256color"
 set -sg terminal-overrides ",*:RGB"
 
 # -- windows & pane creation ---------------------------------------------------
+# Start counting pane and window number at 1
+set -g base-index 1
+setw -g pane-base-index 1
 
 # new window retains current path, possible values are:
 #   - true
@@ -357,7 +360,7 @@ tmux_conf_copy_to_os_clipboard=false
 #set -g history-limit 10000
 
 # start with mouse mode enabled
-#set -g mouse on
+set -g mouse on
 
 # force Vi mode
 #   really you should export VISUAL or EDITOR environment variable, see manual

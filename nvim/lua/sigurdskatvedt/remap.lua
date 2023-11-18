@@ -1,6 +1,3 @@
--- Space is leader
-vim.g.mapleader = " "
-vim.g.maplocalleader = ","
 
 -- Remap to fit to fit with Norwegian keyboard
 vim.keymap.set("n", "ø", "l")
@@ -42,9 +39,9 @@ vim.keymap.set("n", "N", "Nzzzv")
 vim.keymap.set("x", "<leader>p", [["_dP]])
 
 -- Leader+y copies to system register
-vim.keymap.set({"n", "v"}, "<leader>y", [["+y]])
+vim.keymap.set({ "n", "v" }, "<leader>y", [["+y]])
 vim.keymap.set("n", "<leader>Y", [["+Y]])
-vim.keymap.set({"n", "v"}, "<leader>d", [["_d]])
+vim.keymap.set({ "n", "v" }, "<leader>d", [["_d]])
 
 -- Removes Q
 vim.keymap.set("n", "Q", "<nop>")
@@ -60,7 +57,7 @@ vim.keymap.set("n", "<leader>x", "<cmd>!chmod +x %<CR>", { silent = true })
 
 -- UNDOTREE --
 -- Leader+U opens Undotree
-vim.keymap.set("n","<leader>u", vim.cmd.UndotreeToggle)
+vim.keymap.set("n", "<leader>u", vim.cmd.UndotreeToggle)
 
 -- HARPOON --
 local mark = require("harpoon.mark")
@@ -79,29 +76,29 @@ vim.keymap.set("n", "<C-æ>", function() ui.nav_file(5) end)
 -- FUGITIVE --
 vim.keymap.set("n", "<leader>gs", vim.cmd.Git)
 
--- NVIM-TREE.LUA -- 
+-- NVIM-TREE.LUA --
 vim.keymap.set("n", "<leader>n", ":NvimTreeToggle<CR>")
 vim.keymap.set("n", "<leader>N", ":NvimTreeFindFile<CR>")
 
 
 -- TROUBLE.NVIM --
 vim.keymap.set("n", "<leader>xx", "<cmd>TroubleToggle<cr>",
-  {silent = true, noremap = true}
+  { silent = true, noremap = true }
 )
 vim.keymap.set("n", "<leader>xw", "<cmd>TroubleToggle workspace_diagnostics<cr>",
-  {silent = true, noremap = true}
+  { silent = true, noremap = true }
 )
 vim.keymap.set("n", "<leader>xd", "<cmd>TroubleToggle document_diagnostics<cr>",
-  {silent = true, noremap = true}
+  { silent = true, noremap = true }
 )
 vim.keymap.set("n", "<leader>xl", "<cmd>TroubleToggle loclist<cr>",
-  {silent = true, noremap = true}
+  { silent = true, noremap = true }
 )
 vim.keymap.set("n", "<leader>xq", "<cmd>TroubleToggle quickfix<cr>",
-  {silent = true, noremap = true}
+  { silent = true, noremap = true }
 )
 vim.keymap.set("n", "gR", "<cmd>TroubleToggle lsp_references<cr>",
-  {silent = true, noremap = true}
+  { silent = true, noremap = true }
 )
 
 -- TODO-COMMENTS --
@@ -116,10 +113,10 @@ end, { desc = "Previous todo comment" })
 -- REFACTORING --
 -- remap to open the Telescope refactoring menu in visual mode
 vim.api.nvim_set_keymap(
-	"v",
-	"<leader>rr",
-	"<Esc><cmd>lua require('telescope').extensions.refactoring.refactors()<CR>",
-	{ noremap = true }
+  "v",
+  "<leader>rr",
+  "<Esc><cmd>lua require('telescope').extensions.refactoring.refactors()<CR>",
+  { noremap = true }
 )
 
 -- GIT-CONFLICT --
@@ -129,3 +126,17 @@ vim.keymap.set('n', '<leader>cb', '<Plug>(git-conflict-both)')
 vim.keymap.set('n', '<leader>c0', '<Plug>(git-conflict-none)')
 vim.keymap.set('n', '<leader>]x', '<Plug>(git-conflict-prev-conflict)')
 vim.keymap.set('n', '<leader>[x', '<Plug>(git-conflict-next-conflict)')
+
+-- local function ZoteroCite()
+--   local filetype = vim.bo.filetype
+--   local format = filetype:match(".*tex") and "citep" or "pandoc"
+--   local api_call = "http://127.0.0.1:23119/better-bibtex/cayw?format=" .. format .. "&brackets=1"
+--   local handle = io.popen("curl -s " .. api_call)
+--   local result = handle:read("*a")
+--   handle:close()
+--   return result
+-- end
+--
+-- local ZoteroWrapper = ZoteroCite()
+--
+-- vim.keymap.set("n", "<leader>z", ZoteroWrapper)

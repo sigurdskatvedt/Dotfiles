@@ -1,3 +1,3 @@
-require("sigurdskatvedt.packer")
+require("sigurdskatvedt.lazy")
 require("sigurdskatvedt.set")
 require("sigurdskatvedt.remap")

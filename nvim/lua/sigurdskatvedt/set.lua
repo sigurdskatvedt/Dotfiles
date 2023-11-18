@@ -6,6 +6,7 @@ vim.opt.relativenumber = true
 vim.opt.tabstop = 2
 vim.opt.softtabstop = 2
 vim.opt.shiftwidth = 2
+vim.opt.conceallevel = 2
 
 -- Use spaces instead of tab
 vim.opt.expandtab = true
@@ -34,10 +35,10 @@ vim.opt.termguicolors = true
 
 -- Keeps the cursor 8 spaces from the top or bottom edges, starts scrolling
 vim.opt.scrolloff = 8
--- Keeps the sign column always enabled. Shows things like LSP or linting
+-- Keeps the sign column always enab. Shows things like LSP or linting
 -- errors
 vim.opt.signcolumn = "yes"
--- Include filenames with special characters
+-- Include fi with special characters
 vim.opt.isfname:append("@-@")
 
 -- Vertical column at the 80th character to help keep lines short

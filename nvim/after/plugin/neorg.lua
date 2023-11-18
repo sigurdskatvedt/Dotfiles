@@ -2,6 +2,8 @@ local neorg = require('neorg')
 neorg.setup {
   load = {
     ["core.defaults"] = {},  -- Loads default behaviour
+    ["core.integrations.treesitter"] = {},
+    ["core.itero"] = {},
     ["core.export"] = {}, -- Adds export functionality
     ["core.ui"] = {},
     ["core.ui.calendar"] = {},

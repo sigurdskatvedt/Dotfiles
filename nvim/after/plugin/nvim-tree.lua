@@ -47,7 +47,8 @@ nvim_tree.setup({
     vim.keymap.set("n", "ga", git_add, opts("Git add"))
   end,
   view = {
-    width = 30,
+    side = "right",
+    width = 45,
     preserve_window_proportions = true,
     -- mappings = {
     --   list = {
