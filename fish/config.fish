@@ -4,7 +4,8 @@ set fish_greeting                                 # Supresses fish's intro messa
 pyenv init - | source
 
 ### "nvim" as manpager
-set -x MANPAGER "nvim -c 'set ft=man' -"
+set -x MANPAGER "nvim -c 'set ft=man' -c 'Man!' -"
+
 
 ### AUTOCOMPLETE AND HIGHLIGHT COLORS ###
 set fish_color_normal brcyan
@@ -129,11 +130,10 @@ alias newtag='git tag -a'
 
 starship init fish | source
 
+theme_gruvbox dark hard
 
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-if test -f /Users/sigurdskatvedt/anaconda3/bin/conda
-    eval /Users/sigurdskatvedt/anaconda3/bin/conda "shell.fish" "hook" $argv | source
+function cpwd
+     pwd | pbcopy                       # For macOS
 end
-# <<< conda initialize <<<
-
+set -gx PATH /opt/homebrew/opt/qt@5/bin $PATH
+set -gx PATH /opt/homebrew/opt/pyqt@5/5.15.4_1/bin $PATH

@@ -1,20 +1,20 @@
 # focus window
-alt - j : yabai -m window --focus west
-alt - k : yabai -m window --focus south
-alt - l : yabai -m window --focus north
-alt - 0x29 : yabai -m window --focus east
+alt - h : yabai -m window --focus west
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - l : yabai -m window --focus east
 
 # swap managed window
-shift + alt - j : yabai -m window --swap west
-shift + alt - k : yabai -m window --swap south
-shift + alt - l : yabai -m window --swap north
-shift + alt - 0x29 : yabai -m window --swap east
+shift + alt - h : yabai -m window --swap west
+shift + alt - j : yabai -m window --swap south
+shift + alt - k : yabai -m window --swap north
+shift + alt - l : yabai -m window --swap east
 
 # move managed window
-shift + alt + ctrl - j : yabai -m window --warp west
-shift + alt + ctrl - k : yabai -m window --warp south
-shift + alt + ctrl - l : yabai -m window --warp north
-shift + alt + ctrl - 0x29 : yabai -m window --warp east
+shift + alt + ctrl - h: yabai -m window --warp west
+shift + alt + ctrl - j : yabai -m window --warp south
+shift + alt + ctrl - k : yabai -m window --warp north
+shift + alt + ctrl - l : yabai -m window --warp east
 
 # rotate tree
 alt - r : yabai -m space --rotate 90
@@ -51,16 +51,15 @@ shift + ctrl - 7 : yabai -m window --space 7; yabai -m space --focus 7
 shift + ctrl - 8 : yabai -m window --space 8; yabai -m space --focus 8
 shift + ctrl - 9 : yabai -m window --space 9; yabai -m space --focus 9
 
-
-
 # fast focus desktop
 alt - tab : yabai -m space --focus recent
 
 # focus switch monitor
-ctrl + alt - n : yabai -m display --focus next
-ctrl + alt - p : yabai -m display --focus prev
+ctrl + alt - 1 : yabai -m display --focus 1
+ctrl + alt - 2 : yabai -m display --focus 2
+ctrl + alt - 3 : yabai -m display --focus 3
 
 # send window to monitor and follow focus
-shift + alt - n : yabai -m window --display next; yabai -m display --focus next
-shift + alt - p : yabai -m window --display prev; yabai -m display --focus prev
-
+shift + ctrl + alt - 1 : yabai -m window --display 1; yabai -m display --focus 1
+shift + ctrl + alt - 2 : yabai -m window --display 2; yabai -m display --focus 2
+shift + ctrl + alt - 3 : yabai -m window --display 3; yabai -m display --focus 3

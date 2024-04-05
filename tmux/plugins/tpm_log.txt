@@ -1,0 +1,2112 @@
+[2024-03-27 16:25:08.794]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:25:08.806]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-03-27 16:25:08.826]	 unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2024-03-27 16:25:08.827]	 FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2024-03-27 16:25:08.827]	 Aborting.
+[2024-03-27 16:25:08.838]	 Done.
+
+[2024-03-27 16:28:00.571]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:00.581]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:00.619]	 Installing "tmux-copycat"
+[2024-03-27 16:28:00.619]	 Installing "tmux-cpu"
+[2024-03-27 16:28:00.619]	 Installing "tmux-resurrect"
+[2024-03-27 16:28:00.620]	 Installing "tmux-continuum"
+[2024-03-27 16:28:00.620]	 Installing "tmux"
+[2024-03-27 16:28:01.616]	   "tmux-cpu" download success
+[2024-03-27 16:28:01.616]	   "tmux-continuum" download success
+[2024-03-27 16:28:01.719]	   "tmux-copycat" download success
+[2024-03-27 16:28:02.139]	   "tmux" download success
+[2024-03-27 16:28:03.526]	   "tmux-resurrect" download success
+[2024-03-27 16:28:03.537]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:03.559]	 Updating all plugins!
+[2024-03-27 16:28:03.559]	 
+[2024-03-27 16:28:04.258]	   "tmux-copycat" update success
+[2024-03-27 16:28:04.261]	     | Already up to date.
+[2024-03-27 16:28:04.275]	   "tmux-cpu" update success
+[2024-03-27 16:28:04.277]	     | Already up to date.
+[2024-03-27 16:28:04.299]	   "tmux-resurrect" update success
+[2024-03-27 16:28:04.301]	     | Already up to date.
+[2024-03-27 16:28:04.333]	   "tmux" update success
+[2024-03-27 16:28:04.335]	     | Already up to date.
+[2024-03-27 16:28:04.486]	   "tmux-continuum" update success
+[2024-03-27 16:28:04.488]	     | Already up to date.
+[2024-03-27 16:28:04.498]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:04.552]	 Done.
+
+[2024-03-27 16:28:04.570]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:04.579]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:04.619]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:04.638]	 Updating all plugins!
+[2024-03-27 16:28:04.639]	 
+[2024-03-27 16:28:04.658]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:04.690]	 Removing "tmux"
+[2024-03-27 16:28:04.694]	   "tmux" clean success
+[2024-03-27 16:28:04.696]	 Removing "tmux-continuum"
+[2024-03-27 16:28:04.700]	   "tmux-continuum" clean success
+[2024-03-27 16:28:04.702]	 Removing "tmux-copycat"
+[2024-03-27 16:28:04.706]	   "tmux-copycat" clean success
+[2024-03-27 16:28:04.708]	 Removing "tmux-cpu"
+[2024-03-27 16:28:04.713]	   "tmux-cpu" clean success
+[2024-03-27 16:28:04.715]	 Removing "tmux-resurrect"
+[2024-03-27 16:28:04.722]	   "tmux-resurrect" clean success
+[2024-03-27 16:28:04.734]	 Done.
+
+[2024-03-27 16:28:05.088]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:05.097]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:05.137]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:05.157]	 Updating all plugins!
+[2024-03-27 16:28:05.158]	 
+[2024-03-27 16:28:05.178]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:05.221]	 Done.
+
+[2024-03-27 16:28:38.400]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:38.410]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:38.583]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:38.593]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:38.642]	 Already installed "tmux-copycat"
+[2024-03-27 16:28:38.642]	 Already installed "tmux-resurrect"
+[2024-03-27 16:28:38.642]	 Already installed "tmux-continuum"
+[2024-03-27 16:28:38.642]	 Already installed "tmux-cpu"
+[2024-03-27 16:28:38.642]	 Already installed "tmux"
+[2024-03-27 16:28:38.652]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:38.672]	 Updating all plugins!
+[2024-03-27 16:28:38.672]	 
+[2024-03-27 16:28:39.993]	   "tmux-cpu" update fail
+[2024-03-27 16:28:39.997]	     | From https://github.com/tmux-plugins/tmux-cpu
+[2024-03-27 16:28:39.997]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:28:39.997]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:28:39.997]	     | 	.editorconfig
+[2024-03-27 16:28:39.997]	     | 	.github/workflows/check.yml
+[2024-03-27 16:28:39.997]	     | 	.mailmap
+[2024-03-27 16:28:39.997]	     | 	LICENSE
+[2024-03-27 16:28:39.997]	     | 	README.md
+[2024-03-27 16:28:39.997]	     | 	cpu.tmux
+[2024-03-27 16:28:39.997]	     | 	screenshots/high_bg.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/high_fg.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/high_icon.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/low_bg.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/low_fg.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/low_icon.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/medium_bg.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/medium_fg.png
+[2024-03-27 16:28:39.997]	     | 	screenshots/medium_icon.png
+[2024-03-27 16:28:39.997]	     | 	scripts/cpu_bg_color.sh
+[2024-03-27 16:28:39.997]	     | 	scripts/cpu_fg_color.sh
+[2024-03-27 16:28:39.997]	     | 	scripts/cpu_icon.sh
+[2024-03-27 16:28:39.997]	     | 	scripts/cpu_percentage.sh
+[2024-03-27 16:28:39.997]	     | 	scripts/cpu_temp.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/cpu_temp_bg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/cpu_temp_fg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/cpu_temp_icon.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_bg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_fg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_icon.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_percentage.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_temp.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_temp_bg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_temp_fg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gpu_temp_icon.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gram_bg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gram_fg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gram_icon.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/gram_percentage.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/helpers.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/ram_bg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/ram_fg_color.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/ram_icon.sh
+[2024-03-27 16:28:39.998]	     | 	scripts/ram_percentage.sh
+[2024-03-27 16:28:39.998]	     | Please move or remove them before you merge.
+[2024-03-27 16:28:39.998]	     | Aborting
+[2024-03-27 16:28:40.089]	   "tmux-continuum" update fail
+[2024-03-27 16:28:40.092]	     | From https://github.com/tmux-plugins/tmux-continuum
+[2024-03-27 16:28:40.092]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:28:40.092]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:28:40.092]	     | 	.gitattributes
+[2024-03-27 16:28:40.092]	     | 	CHANGELOG.md
+[2024-03-27 16:28:40.092]	     | 	CONTRIBUTING.md
+[2024-03-27 16:28:40.092]	     | 	LICENSE.md
+[2024-03-27 16:28:40.092]	     | 	README.md
+[2024-03-27 16:28:40.092]	     | 	continuum.tmux
+[2024-03-27 16:28:40.092]	     | 	docs/automatic_start.md
+[2024-03-27 16:28:40.092]	     | 	docs/continuum_status.md
+[2024-03-27 16:28:40.092]	     | 	docs/faq.md
+[2024-03-27 16:28:40.092]	     | 	docs/multiple_tmux_servers.md
+[2024-03-27 16:28:40.092]	     | 	docs/systemd_details.md
+[2024-03-27 16:28:40.092]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/continuum_restore.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/continuum_save.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/continuum_status.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/README.md
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/osx_alacritty_start_tmux.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/osx_disable.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/osx_enable.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/osx_iterm_start_tmux.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/osx_kitty_start_tmux.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/osx_terminal_start_tmux.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/systemd_disable.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/handle_tmux_automatic_start/systemd_enable.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/helpers.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/shared.sh
+[2024-03-27 16:28:40.092]	     | 	scripts/variables.sh
+[2024-03-27 16:28:40.092]	     | Please move or remove them before you merge.
+[2024-03-27 16:28:40.092]	     | Aborting
+[2024-03-27 16:28:40.528]	   "tmux-resurrect" update fail
+[2024-03-27 16:28:40.530]	     | From https://github.com/tmux-plugins/tmux-resurrect
+[2024-03-27 16:28:40.530]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:28:40.530]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:28:40.530]	     | 	.gitattributes
+[2024-03-27 16:28:40.530]	     | 	.gitignore
+[2024-03-27 16:28:40.530]	     | 	.gitmodules
+[2024-03-27 16:28:40.530]	     | 	.travis.yml
+[2024-03-27 16:28:40.530]	     | 	CHANGELOG.md
+[2024-03-27 16:28:40.530]	     | 	CONTRIBUTING.md
+[2024-03-27 16:28:40.530]	     | 	LICENSE.md
+[2024-03-27 16:28:40.530]	     | 	README.md
+[2024-03-27 16:28:40.530]	     | 	docs/custom_key_bindings.md
+[2024-03-27 16:28:40.530]	     | 	docs/hooks.md
+[2024-03-27 16:28:40.530]	     | 	docs/migrating_from_tmuxinator.md
+[2024-03-27 16:28:40.530]	     | 	docs/restoring_bash_history.md
+[2024-03-27 16:28:40.530]	     | 	docs/restoring_pane_contents.md
+[2024-03-27 16:28:40.530]	     | 	docs/restoring_previously_saved_environment.md
+[2024-03-27 16:28:40.530]	     | 	docs/restoring_programs.md
+[2024-03-27 16:28:40.530]	     | 	docs/restoring_vim_and_neovim_sessions.md
+[2024-03-27 16:28:40.530]	     | 	docs/save_dir.md
+[2024-03-27 16:28:40.530]	     | 	resurrect.tmux
+[2024-03-27 16:28:40.530]	     | 	run_tests
+[2024-03-27 16:28:40.530]	     | 	save_command_strategies/gdb.sh
+[2024-03-27 16:28:40.530]	     | 	save_command_strategies/linux_procfs.sh
+[2024-03-27 16:28:40.530]	     | 	save_command_strategies/pgrep.sh
+[2024-03-27 16:28:40.530]	     | 	save_command_strategies/ps.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/helpers.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/process_restore_helpers.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/restore.exp
+[2024-03-27 16:28:40.530]	     | 	scripts/restore.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/save.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/spinner_helpers.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/tmux_spinner.sh
+[2024-03-27 16:28:40.530]	     | 	scripts/variables.sh
+[2024-03-27 16:28:40.530]	     | 	strategies/irb_default_strategy.sh
+[2024-03-27 16:28:40.530]	     | 	strategies/mosh-client_default_strategy.sh
+[2024-03-27 16:28:40.530]	     | 	strategies/nvim_session.sh
+[2024-03-27 16:28:40.530]	     | 	strategies/vim_session.sh
+[2024-03-27 16:28:40.530]	     | 	tests/fixtures/restore_file.txt
+[2024-03-27 16:28:40.530]	     | 	tests/fixtures/save_file.txt
+[2024-03-27 16:28:40.530]	     | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2024-03-27 16:28:40.530]	     | 	tests/helpers/expect_helpers.exp
+[2024-03-27 16:28:40.530]	     | 	tests/helpers/helpers.sh
+[2024-03-27 16:28:40.530]	     | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2024-03-27 16:28:40.530]	     | 	tests/helpers/resurrect_helpers.sh
+[2024-03-27 16:28:40.530]	     | 	tests/run_tests_in_isolation
+[2024-03-27 16:28:40.530]	     | 	tests/test_resurrect_restore.sh
+[2024-03-27 16:28:40.530]	     | 	tests/test_resurrect_save.sh
+[2024-03-27 16:28:40.530]	     | 	video/issue_vid.png
+[2024-03-27 16:28:40.530]	     | 	video/screencast_img.png
+[2024-03-27 16:28:40.530]	     | 	video/script.md
+[2024-03-27 16:28:40.530]	     | Please move or remove them before you merge.
+[2024-03-27 16:28:40.530]	     | Aborting
+[2024-03-27 16:28:40.656]	   "tmux-copycat" update fail
+[2024-03-27 16:28:40.660]	     | From https://github.com/tmux-plugins/tmux-copycat
+[2024-03-27 16:28:40.660]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:28:40.660]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:28:40.660]	     | 	.gitattributes
+[2024-03-27 16:28:40.660]	     | 	.gitignore
+[2024-03-27 16:28:40.660]	     | 	.travis.yml
+[2024-03-27 16:28:40.660]	     | 	CHANGELOG.md
+[2024-03-27 16:28:40.660]	     | 	LICENSE.md
+[2024-03-27 16:28:40.660]	     | 	README.md
+[2024-03-27 16:28:40.660]	     | 	Vagrantfile
+[2024-03-27 16:28:40.660]	     | 	copycat.tmux
+[2024-03-27 16:28:40.660]	     | 	docs/customizations.md
+[2024-03-27 16:28:40.660]	     | 	docs/defining_new_stored_searches.md
+[2024-03-27 16:28:40.660]	     | 	docs/installation_for_tmux_2.3.md
+[2024-03-27 16:28:40.660]	     | 	docs/limitations.md
+[2024-03-27 16:28:40.660]	     | 	run-tests
+[2024-03-27 16:28:40.660]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_generate_results.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_git_special.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_jump.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_mode_bindings.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_mode_quit.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_mode_start.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/copycat_search.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/helpers.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/stored_search_helpers.sh
+[2024-03-27 16:28:40.660]	     | 	scripts/variables.sh
+[2024-03-27 16:28:40.660]	     | 	test/README.md
+[2024-03-27 16:28:40.660]	     | 	test/helpers/expect_copycat_assertions.exp
+[2024-03-27 16:28:40.660]	     | 	test/helpers/expect_copycat_helpers.exp
+[2024-03-27 16:28:40.660]	     | 	test/helpers/expect_helpers.exp
+[2024-03-27 16:28:40.660]	     | 	test/helpers/run_tmux.exp
+[2024-03-27 16:28:40.660]	     | 	test/helpers/setup.exp
+[2024-03-27 16:28:40.660]	     | 	test/helpers/setup_tmux_conf.sh
+[2024-03-27 16:28:40.660]	     | 	test/helpers/setup_tmux_conf_with_custom_searches.sh
+[2024-03-27 16:28:40.660]	     | 	test/helpers/setup_with_custom_searches.exp
+[2024-03-27 16:28:40.660]	     | 	test/helpers/test.exp
+[2024-03-27 16:28:40.660]	     | 	test/run-tests-within-vm
+[2024-03-27 16:28:40.660]	     | 	test/test_digit_search.exp
+[2024-03-27 16:28:40.660]	     | 	test/test_file_search.exp
+[2024-03-27 16:28:40.661]	     | 	test/test_free_search.exp
+[2024-03-27 16:28:40.661]	     | 	test/test_git_hash_search.exp
+[2024-03-27 16:28:40.661]	     | 	test/test_git_status_search.exp
+[2024-03-27 16:28:40.661]	     | 	test/test_url_search.exp
+[2024-03-27 16:28:40.661]	     | 	test/test_user_defined_search.exp
+[2024-03-27 16:28:40.661]	     | 	vagrant_ubuntu_provisioning_two_five.sh
+[2024-03-27 16:28:40.661]	     | 	video/README.md
+[2024-03-27 16:28:40.661]	     | 	video/screencast_img.png
+[2024-03-27 16:28:40.661]	     | 	video/script.md
+[2024-03-27 16:28:40.661]	     | Please move or remove them before you merge.
+[2024-03-27 16:28:40.661]	     | Aborting
+[2024-03-27 16:28:40.836]	   "tmux" update fail
+[2024-03-27 16:28:40.840]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:28:40.840]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:28:40.840]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:28:40.840]	     | 	.editorconfig
+[2024-03-27 16:28:40.840]	     | 	.github/ISSUE_TEMPLATE/bug-report.md
+[2024-03-27 16:28:40.840]	     | 	.github/ISSUE_TEMPLATE/feature_request.md
+[2024-03-27 16:28:40.840]	     | 	.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+[2024-03-27 16:28:40.840]	     | 	.github/workflows/check-syntax.yml
+[2024-03-27 16:28:40.840]	     | 	.gitignore
+[2024-03-27 16:28:40.840]	     | 	.gitmodules
+[2024-03-27 16:28:40.840]	     | 	INSTALL.md
+[2024-03-27 16:28:40.840]	     | 	LICENSE
+[2024-03-27 16:28:40.840]	     | 	README.md
+[2024-03-27 16:28:40.840]	     | 	data/.gitkeep
+[2024-03-27 16:28:40.840]	     | 	dracula.tmux
+[2024-03-27 16:28:40.840]	     | 	screenshot.png
+[2024-03-27 16:28:40.840]	     | 	scripts/attached_clients.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/battery.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/continuum.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/cpu_info.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/cwd.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/dracula.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/fossil.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/git.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/gpu_power.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/gpu_ram_info.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/gpu_usage.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/hg.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/kubernetes_context.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/mpc.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/network.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/network_bandwidth.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/network_ping.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/network_vpn.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/ram_info.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/spotify-tui.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/ssh_session.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/synchronize_panes.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/terraform.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/tmux_ram_info.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/utils.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/weather.sh
+[2024-03-27 16:28:40.840]	     | 	scripts/weather_wrapper.sh
+[2024-03-27 16:28:40.840]	     | Please move or remove them before you merge.
+[2024-03-27 16:28:40.840]	     | Aborting
+[2024-03-27 16:28:40.855]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:40.907]	 Done.
+
+[2024-03-27 16:28:38.449]	 Installing "tmux-copycat"
+[2024-03-27 16:28:38.450]	 Installing "tmux-cpu"
+[2024-03-27 16:28:38.450]	 Installing "tmux-resurrect"
+[2024-03-27 16:28:38.450]	 Installing "tmux-continuum"
+[2024-03-27 16:28:38.451]	 Installing "tmux"
+[2024-03-27 16:28:39.551]	   "tmux-cpu" download success
+[2024-03-27 16:28:39.554]	   "tmux-continuum" download success
+[2024-03-27 16:28:39.786]	   "tmux-copycat" download success
+[2024-03-27 16:28:40.368]	   "tmux" download success
+[2024-03-27 16:28:41.190]	   "tmux-resurrect" download success
+[2024-03-27 16:28:41.203]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:41.224]	 Updating all plugins!
+[2024-03-27 16:28:41.225]	 
+[2024-03-27 16:28:41.246]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:41.283]	 Removing "tmux"
+[2024-03-27 16:28:41.287]	   "tmux" clean success
+[2024-03-27 16:28:41.289]	 Removing "tmux-continuum"
+[2024-03-27 16:28:41.293]	   "tmux-continuum" clean success
+[2024-03-27 16:28:41.295]	 Removing "tmux-copycat"
+[2024-03-27 16:28:41.300]	   "tmux-copycat" clean success
+[2024-03-27 16:28:41.302]	 Removing "tmux-cpu"
+[2024-03-27 16:28:41.307]	   "tmux-cpu" clean success
+[2024-03-27 16:28:41.309]	 Removing "tmux-resurrect"
+[2024-03-27 16:28:41.317]	   "tmux-resurrect" clean success
+[2024-03-27 16:28:41.329]	 Done.
+
+[2024-03-27 16:28:47.034]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:47.043]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:47.081]	 Installing "tmux-copycat"
+[2024-03-27 16:28:47.082]	 Installing "tmux-cpu"
+[2024-03-27 16:28:47.082]	 Installing "tmux-resurrect"
+[2024-03-27 16:28:47.082]	 Installing "tmux-continuum"
+[2024-03-27 16:28:47.083]	 Installing "tmux"
+[2024-03-27 16:28:48.023]	   "tmux-cpu" download success
+[2024-03-27 16:28:48.036]	   "tmux-continuum" download success
+[2024-03-27 16:28:48.140]	   "tmux-copycat" download success
+[2024-03-27 16:28:48.380]	   "tmux" download success
+[2024-03-27 16:28:49.205]	   "tmux-resurrect" download success
+[2024-03-27 16:28:49.217]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:49.239]	 Updating all plugins!
+[2024-03-27 16:28:49.239]	 
+[2024-03-27 16:28:49.989]	   "tmux-copycat" update success
+[2024-03-27 16:28:49.993]	     | Already up to date.
+[2024-03-27 16:28:49.997]	   "tmux-cpu" update success
+[2024-03-27 16:28:50.001]	     | Already up to date.
+[2024-03-27 16:28:50.010]	   "tmux-continuum" update success
+[2024-03-27 16:28:50.013]	     | Already up to date.
+[2024-03-27 16:28:50.021]	   "tmux-resurrect" update success
+[2024-03-27 16:28:50.024]	     | Already up to date.
+[2024-03-27 16:28:50.043]	   "tmux" update success
+[2024-03-27 16:28:50.046]	     | Already up to date.
+[2024-03-27 16:28:50.056]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:50.113]	 Done.
+
+[2024-03-27 16:28:51.240]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:51.249]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:51.292]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:51.312]	 Updating all plugins!
+[2024-03-27 16:28:51.312]	 
+[2024-03-27 16:28:51.332]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:51.363]	 Removing "tmux"
+[2024-03-27 16:28:51.367]	   "tmux" clean success
+[2024-03-27 16:28:51.369]	 Removing "tmux-continuum"
+[2024-03-27 16:28:51.373]	   "tmux-continuum" clean success
+[2024-03-27 16:28:51.375]	 Removing "tmux-copycat"
+[2024-03-27 16:28:51.380]	   "tmux-copycat" clean success
+[2024-03-27 16:28:51.382]	 Removing "tmux-cpu"
+[2024-03-27 16:28:51.386]	   "tmux-cpu" clean success
+[2024-03-27 16:28:51.388]	 Removing "tmux-resurrect"
+[2024-03-27 16:28:51.395]	   "tmux-resurrect" clean success
+[2024-03-27 16:28:51.407]	 Done.
+
+[2024-03-27 16:28:51.451]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:28:51.460]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:28:51.500]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:28:51.519]	 Updating all plugins!
+[2024-03-27 16:28:51.519]	 
+[2024-03-27 16:28:51.538]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:28:51.578]	 Done.
+
+[2024-03-27 16:29:11.709]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:11.719]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:11.755]	 Installing "tmux-copycat"
+[2024-03-27 16:29:11.756]	 Installing "tmux-resurrect"
+[2024-03-27 16:29:11.756]	 Installing "tmux-cpu"
+[2024-03-27 16:29:11.756]	 Installing "tmux-continuum"
+[2024-03-27 16:29:11.757]	 Installing "tmux"
+[2024-03-27 16:29:12.720]	   "tmux-cpu" download success
+[2024-03-27 16:29:12.745]	   "tmux-continuum" download success
+[2024-03-27 16:29:13.012]	   "tmux-copycat" download success
+[2024-03-27 16:29:13.341]	   "tmux" download success
+[2024-03-27 16:29:13.994]	   "tmux-resurrect" download success
+[2024-03-27 16:29:14.006]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:14.026]	 Updating all plugins!
+[2024-03-27 16:29:14.026]	 
+[2024-03-27 16:29:14.833]	   "tmux-continuum" update success
+[2024-03-27 16:29:14.835]	   "tmux-copycat" update success
+[2024-03-27 16:29:14.835]	     | Already up to date.
+[2024-03-27 16:29:14.837]	   "tmux-cpu" update success
+[2024-03-27 16:29:14.837]	     | Already up to date.
+[2024-03-27 16:29:14.838]	   "tmux" update success
+[2024-03-27 16:29:14.839]	   "tmux-resurrect" update success
+[2024-03-27 16:29:14.839]	     | Already up to date.
+[2024-03-27 16:29:14.840]	     | Already up to date.
+[2024-03-27 16:29:14.841]	     | Already up to date.
+[2024-03-27 16:29:14.851]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:14.903]	 Done.
+
+[2024-03-27 16:29:17.519]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:17.528]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:17.575]	 Already installed "tmux-copycat"
+[2024-03-27 16:29:17.575]	 Already installed "tmux-continuum"
+[2024-03-27 16:29:17.575]	 Already installed "tmux"
+[2024-03-27 16:29:17.575]	 Already installed "tmux-resurrect"
+[2024-03-27 16:29:17.575]	 Already installed "tmux-cpu"
+[2024-03-27 16:29:17.585]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:17.822]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:17.832]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:17.883]	 Already installed "tmux-resurrect"
+[2024-03-27 16:29:17.883]	 Already installed "tmux"
+[2024-03-27 16:29:17.883]	 Already installed "tmux-cpu"
+[2024-03-27 16:29:17.883]	 Already installed "tmux-copycat"
+[2024-03-27 16:29:17.883]	 Already installed "tmux-continuum"
+[2024-03-27 16:29:17.893]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:17.913]	 Updating all plugins!
+[2024-03-27 16:29:17.913]	 
+[2024-03-27 16:29:18.591]	   "tmux-resurrect" update fail
+[2024-03-27 16:29:18.594]	     | fatal: Cannot rebase onto multiple branches.
+[2024-03-27 16:29:18.595]	   "tmux-cpu" update fail
+[2024-03-27 16:29:18.598]	     | fatal: Cannot rebase onto multiple branches.
+[2024-03-27 16:29:18.654]	   "tmux" update fail
+[2024-03-27 16:29:18.657]	     | fatal: Cannot rebase onto multiple branches.
+[2024-03-27 16:29:18.661]	   "tmux-continuum" update fail
+[2024-03-27 16:29:18.664]	     | fatal: Cannot rebase onto multiple branches.
+[2024-03-27 16:29:18.715]	   "tmux-copycat" update success
+[2024-03-27 16:29:18.717]	     | Already up to date.
+[2024-03-27 16:29:18.730]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:18.780]	 Done.
+
+[2024-03-27 16:29:17.605]	 Updating all plugins!
+[2024-03-27 16:29:17.605]	 
+[2024-03-27 16:29:18.355]	   "tmux-cpu" update success
+[2024-03-27 16:29:18.355]	   "tmux-continuum" update success
+[2024-03-27 16:29:18.357]	     | Already up to date.
+[2024-03-27 16:29:18.357]	     | Already up to date.
+[2024-03-27 16:29:18.363]	   "tmux" update success
+[2024-03-27 16:29:18.365]	     | Already up to date.
+[2024-03-27 16:29:18.367]	   "tmux-resurrect" update success
+[2024-03-27 16:29:18.369]	     | Already up to date.
+[2024-03-27 16:29:18.826]	   "tmux-copycat" update fail
+[2024-03-27 16:29:18.828]	     | fatal: Cannot rebase onto multiple branches.
+[2024-03-27 16:29:18.838]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:18.869]	 Removing "tmux"
+[2024-03-27 16:29:18.874]	   "tmux" clean success
+[2024-03-27 16:29:18.876]	 Removing "tmux-continuum"
+[2024-03-27 16:29:18.880]	   "tmux-continuum" clean success
+[2024-03-27 16:29:18.882]	 Removing "tmux-copycat"
+[2024-03-27 16:29:18.887]	   "tmux-copycat" clean success
+[2024-03-27 16:29:18.889]	 Removing "tmux-cpu"
+[2024-03-27 16:29:18.893]	   "tmux-cpu" clean success
+[2024-03-27 16:29:18.895]	 Removing "tmux-resurrect"
+[2024-03-27 16:29:18.903]	   "tmux-resurrect" clean success
+[2024-03-27 16:29:18.914]	 Done.
+
+[2024-03-27 16:29:28.572]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:28.581]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:28.896]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:28.905]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:28.955]	 Already installed "tmux"
+[2024-03-27 16:29:28.955]	 Already installed "tmux-cpu"
+[2024-03-27 16:29:28.955]	 Already installed "tmux-copycat"
+[2024-03-27 16:29:28.955]	 Already installed "tmux-resurrect"
+[2024-03-27 16:29:28.955]	 Already installed "tmux-continuum"
+[2024-03-27 16:29:28.965]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:28.985]	 Updating all plugins!
+[2024-03-27 16:29:28.986]	 
+[2024-03-27 16:29:29.607]	   "tmux-cpu" update fail
+[2024-03-27 16:29:29.610]	     | From https://github.com/tmux-plugins/tmux-cpu
+[2024-03-27 16:29:29.610]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:29.610]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:29.610]	     | 	.editorconfig
+[2024-03-27 16:29:29.610]	     | 	.github/workflows/check.yml
+[2024-03-27 16:29:29.610]	     | 	.mailmap
+[2024-03-27 16:29:29.610]	     | 	LICENSE
+[2024-03-27 16:29:29.610]	     | 	README.md
+[2024-03-27 16:29:29.610]	     | 	cpu.tmux
+[2024-03-27 16:29:29.610]	     | 	screenshots/high_bg.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/high_fg.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/high_icon.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/low_bg.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/low_fg.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/low_icon.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/medium_bg.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/medium_fg.png
+[2024-03-27 16:29:29.610]	     | 	screenshots/medium_icon.png
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_bg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_fg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_icon.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_percentage.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_temp.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_temp_bg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_temp_fg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/cpu_temp_icon.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_bg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_fg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_icon.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_percentage.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_temp.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_temp_bg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_temp_fg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gpu_temp_icon.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gram_bg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gram_fg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gram_icon.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/gram_percentage.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/ram_bg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/ram_fg_color.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/ram_icon.sh
+[2024-03-27 16:29:29.610]	     | 	scripts/ram_percentage.sh
+[2024-03-27 16:29:29.610]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:29.610]	     | Aborting
+[2024-03-27 16:29:29.680]	   "tmux-copycat" update fail
+[2024-03-27 16:29:29.682]	     | From https://github.com/tmux-plugins/tmux-copycat
+[2024-03-27 16:29:29.682]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:29.682]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:29.682]	     | 	.gitattributes
+[2024-03-27 16:29:29.682]	     | 	.gitignore
+[2024-03-27 16:29:29.682]	     | 	.travis.yml
+[2024-03-27 16:29:29.682]	     | 	CHANGELOG.md
+[2024-03-27 16:29:29.682]	     | 	LICENSE.md
+[2024-03-27 16:29:29.682]	     | 	README.md
+[2024-03-27 16:29:29.682]	     | 	Vagrantfile
+[2024-03-27 16:29:29.682]	     | 	copycat.tmux
+[2024-03-27 16:29:29.682]	     | 	docs/customizations.md
+[2024-03-27 16:29:29.682]	     | 	docs/defining_new_stored_searches.md
+[2024-03-27 16:29:29.682]	     | 	docs/installation_for_tmux_2.3.md
+[2024-03-27 16:29:29.682]	     | 	docs/limitations.md
+[2024-03-27 16:29:29.682]	     | 	run-tests
+[2024-03-27 16:29:29.682]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_generate_results.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_git_special.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_jump.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_mode_bindings.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_mode_quit.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_mode_start.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/copycat_search.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/stored_search_helpers.sh
+[2024-03-27 16:29:29.682]	     | 	scripts/variables.sh
+[2024-03-27 16:29:29.682]	     | 	test/README.md
+[2024-03-27 16:29:29.682]	     | 	test/helpers/expect_copycat_assertions.exp
+[2024-03-27 16:29:29.682]	     | 	test/helpers/expect_copycat_helpers.exp
+[2024-03-27 16:29:29.682]	     | 	test/helpers/expect_helpers.exp
+[2024-03-27 16:29:29.682]	     | 	test/helpers/run_tmux.exp
+[2024-03-27 16:29:29.682]	     | 	test/helpers/setup.exp
+[2024-03-27 16:29:29.682]	     | 	test/helpers/setup_tmux_conf.sh
+[2024-03-27 16:29:29.682]	     | 	test/helpers/setup_tmux_conf_with_custom_searches.sh
+[2024-03-27 16:29:29.682]	     | 	test/helpers/setup_with_custom_searches.exp
+[2024-03-27 16:29:29.682]	     | 	test/helpers/test.exp
+[2024-03-27 16:29:29.682]	     | 	test/run-tests-within-vm
+[2024-03-27 16:29:29.682]	     | 	test/test_digit_search.exp
+[2024-03-27 16:29:29.682]	     | 	test/test_file_search.exp
+[2024-03-27 16:29:29.682]	     | 	test/test_free_search.exp
+[2024-03-27 16:29:29.682]	     | 	test/test_git_hash_search.exp
+[2024-03-27 16:29:29.682]	     | 	test/test_git_status_search.exp
+[2024-03-27 16:29:29.682]	     | 	test/test_url_search.exp
+[2024-03-27 16:29:29.682]	     | 	test/test_user_defined_search.exp
+[2024-03-27 16:29:29.682]	     | 	vagrant_ubuntu_provisioning_two_five.sh
+[2024-03-27 16:29:29.682]	     | 	video/README.md
+[2024-03-27 16:29:29.682]	     | 	video/screencast_img.png
+[2024-03-27 16:29:29.682]	     | 	video/script.md
+[2024-03-27 16:29:29.682]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:29.682]	     | Aborting
+[2024-03-27 16:29:29.727]	   "tmux-continuum" update fail
+[2024-03-27 16:29:29.729]	     | From https://github.com/tmux-plugins/tmux-continuum
+[2024-03-27 16:29:29.729]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:29.729]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:29.729]	     | 	.gitattributes
+[2024-03-27 16:29:29.729]	     | 	CHANGELOG.md
+[2024-03-27 16:29:29.729]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:29.729]	     | 	LICENSE.md
+[2024-03-27 16:29:29.729]	     | 	README.md
+[2024-03-27 16:29:29.729]	     | 	continuum.tmux
+[2024-03-27 16:29:29.729]	     | 	docs/automatic_start.md
+[2024-03-27 16:29:29.729]	     | 	docs/continuum_status.md
+[2024-03-27 16:29:29.729]	     | 	docs/faq.md
+[2024-03-27 16:29:29.729]	     | 	docs/multiple_tmux_servers.md
+[2024-03-27 16:29:29.729]	     | 	docs/systemd_details.md
+[2024-03-27 16:29:29.729]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/continuum_restore.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/continuum_save.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/continuum_status.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/README.md
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/osx_alacritty_start_tmux.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/osx_disable.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/osx_enable.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/osx_iterm_start_tmux.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/osx_kitty_start_tmux.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/osx_terminal_start_tmux.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/systemd_disable.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/handle_tmux_automatic_start/systemd_enable.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/shared.sh
+[2024-03-27 16:29:29.729]	     | 	scripts/variables.sh
+[2024-03-27 16:29:29.729]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:29.730]	     | Aborting
+[2024-03-27 16:29:30.512]	   "tmux-resurrect" update fail
+[2024-03-27 16:29:30.515]	     | From https://github.com/tmux-plugins/tmux-resurrect
+[2024-03-27 16:29:30.515]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:30.515]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:30.515]	     | 	.gitattributes
+[2024-03-27 16:29:30.515]	     | 	.gitignore
+[2024-03-27 16:29:30.515]	     | 	.gitmodules
+[2024-03-27 16:29:30.515]	     | 	.travis.yml
+[2024-03-27 16:29:30.515]	     | 	CHANGELOG.md
+[2024-03-27 16:29:30.515]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:30.515]	     | 	LICENSE.md
+[2024-03-27 16:29:30.515]	     | 	README.md
+[2024-03-27 16:29:30.515]	     | 	docs/custom_key_bindings.md
+[2024-03-27 16:29:30.515]	     | 	docs/hooks.md
+[2024-03-27 16:29:30.515]	     | 	docs/migrating_from_tmuxinator.md
+[2024-03-27 16:29:30.515]	     | 	docs/restoring_bash_history.md
+[2024-03-27 16:29:30.515]	     | 	docs/restoring_pane_contents.md
+[2024-03-27 16:29:30.515]	     | 	docs/restoring_previously_saved_environment.md
+[2024-03-27 16:29:30.515]	     | 	docs/restoring_programs.md
+[2024-03-27 16:29:30.515]	     | 	docs/restoring_vim_and_neovim_sessions.md
+[2024-03-27 16:29:30.515]	     | 	docs/save_dir.md
+[2024-03-27 16:29:30.515]	     | 	resurrect.tmux
+[2024-03-27 16:29:30.515]	     | 	run_tests
+[2024-03-27 16:29:30.515]	     | 	save_command_strategies/gdb.sh
+[2024-03-27 16:29:30.515]	     | 	save_command_strategies/linux_procfs.sh
+[2024-03-27 16:29:30.515]	     | 	save_command_strategies/pgrep.sh
+[2024-03-27 16:29:30.515]	     | 	save_command_strategies/ps.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/process_restore_helpers.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/restore.exp
+[2024-03-27 16:29:30.515]	     | 	scripts/restore.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/save.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/spinner_helpers.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/tmux_spinner.sh
+[2024-03-27 16:29:30.515]	     | 	scripts/variables.sh
+[2024-03-27 16:29:30.515]	     | 	strategies/irb_default_strategy.sh
+[2024-03-27 16:29:30.515]	     | 	strategies/mosh-client_default_strategy.sh
+[2024-03-27 16:29:30.515]	     | 	strategies/nvim_session.sh
+[2024-03-27 16:29:30.515]	     | 	strategies/vim_session.sh
+[2024-03-27 16:29:30.515]	     | 	tests/fixtures/restore_file.txt
+[2024-03-27 16:29:30.515]	     | 	tests/fixtures/save_file.txt
+[2024-03-27 16:29:30.515]	     | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:30.515]	     | 	tests/helpers/expect_helpers.exp
+[2024-03-27 16:29:30.515]	     | 	tests/helpers/helpers.sh
+[2024-03-27 16:29:30.515]	     | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:30.515]	     | 	tests/helpers/resurrect_helpers.sh
+[2024-03-27 16:29:30.515]	     | 	tests/run_tests_in_isolation
+[2024-03-27 16:29:30.516]	     | 	tests/test_resurrect_restore.sh
+[2024-03-27 16:29:30.516]	     | 	tests/test_resurrect_save.sh
+[2024-03-27 16:29:30.516]	     | 	video/issue_vid.png
+[2024-03-27 16:29:30.516]	     | 	video/screencast_img.png
+[2024-03-27 16:29:30.516]	     | 	video/script.md
+[2024-03-27 16:29:30.516]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:30.516]	     | Aborting
+[2024-03-27 16:29:30.675]	   "tmux" update fail
+[2024-03-27 16:29:30.678]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:29:30.678]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:30.678]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:30.678]	     | 	.editorconfig
+[2024-03-27 16:29:30.678]	     | 	.github/ISSUE_TEMPLATE/bug-report.md
+[2024-03-27 16:29:30.678]	     | 	.github/ISSUE_TEMPLATE/feature_request.md
+[2024-03-27 16:29:30.678]	     | 	.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+[2024-03-27 16:29:30.678]	     | 	.github/workflows/check-syntax.yml
+[2024-03-27 16:29:30.678]	     | 	.gitignore
+[2024-03-27 16:29:30.678]	     | 	.gitmodules
+[2024-03-27 16:29:30.678]	     | 	INSTALL.md
+[2024-03-27 16:29:30.678]	     | 	LICENSE
+[2024-03-27 16:29:30.678]	     | 	README.md
+[2024-03-27 16:29:30.678]	     | 	data/.gitkeep
+[2024-03-27 16:29:30.678]	     | 	dracula.tmux
+[2024-03-27 16:29:30.678]	     | 	screenshot.png
+[2024-03-27 16:29:30.678]	     | 	scripts/attached_clients.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/battery.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/continuum.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/cpu_info.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/cwd.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/dracula.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/fossil.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/git.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/gpu_power.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/gpu_ram_info.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/gpu_usage.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/hg.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/kubernetes_context.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/mpc.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/network.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/network_bandwidth.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/network_ping.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/network_vpn.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/ram_info.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/spotify-tui.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/ssh_session.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/synchronize_panes.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/terraform.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/tmux_ram_info.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/utils.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/weather.sh
+[2024-03-27 16:29:30.678]	     | 	scripts/weather_wrapper.sh
+[2024-03-27 16:29:30.678]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:30.678]	     | Aborting
+[2024-03-27 16:29:30.689]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:30.739]	 Done.
+
+[2024-03-27 16:29:28.617]	 Installing "tmux-copycat"
+[2024-03-27 16:29:28.617]	 Installing "tmux-cpu"
+[2024-03-27 16:29:28.617]	 Installing "tmux-resurrect"
+[2024-03-27 16:29:28.618]	 Installing "tmux-continuum"
+[2024-03-27 16:29:28.618]	 Installing "tmux"
+[2024-03-27 16:29:29.551]	   "tmux-continuum" download success
+[2024-03-27 16:29:29.619]	   "tmux-cpu" download success
+[2024-03-27 16:29:29.655]	   "tmux-copycat" download success
+[2024-03-27 16:29:29.972]	   "tmux" download success
+[2024-03-27 16:29:31.094]	   "tmux-resurrect" download success
+[2024-03-27 16:29:31.108]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:31.128]	 Updating all plugins!
+[2024-03-27 16:29:31.128]	 
+[2024-03-27 16:29:31.148]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:31.197]	 Removing "tmux"
+[2024-03-27 16:29:31.202]	   "tmux" clean success
+[2024-03-27 16:29:31.204]	 Removing "tmux-continuum"
+[2024-03-27 16:29:31.208]	   "tmux-continuum" clean success
+[2024-03-27 16:29:31.210]	 Removing "tmux-copycat"
+[2024-03-27 16:29:31.215]	   "tmux-copycat" clean success
+[2024-03-27 16:29:31.217]	 Removing "tmux-cpu"
+[2024-03-27 16:29:31.221]	   "tmux-cpu" clean success
+[2024-03-27 16:29:31.224]	 Removing "tmux-resurrect"
+[2024-03-27 16:29:31.232]	   "tmux-resurrect" clean success
+[2024-03-27 16:29:31.244]	 Done.
+
+[2024-03-27 16:29:35.204]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:35.213]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:35.659]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:35.669]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:35.724]	 Already installed "tmux-copycat"
+[2024-03-27 16:29:35.724]	 Already installed "tmux-cpu"
+[2024-03-27 16:29:35.724]	 Already installed "tmux-resurrect"
+[2024-03-27 16:29:35.724]	 Already installed "tmux-continuum"
+[2024-03-27 16:29:35.724]	 Already installed "tmux"
+[2024-03-27 16:29:35.734]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:35.754]	 Updating all plugins!
+[2024-03-27 16:29:35.754]	 
+[2024-03-27 16:29:36.400]	   "tmux-copycat" update fail
+[2024-03-27 16:29:36.403]	     | From https://github.com/tmux-plugins/tmux-copycat
+[2024-03-27 16:29:36.403]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:36.403]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:36.403]	     | 	.gitattributes
+[2024-03-27 16:29:36.403]	     | 	.gitignore
+[2024-03-27 16:29:36.403]	     | 	.travis.yml
+[2024-03-27 16:29:36.403]	     | 	CHANGELOG.md
+[2024-03-27 16:29:36.403]	     | 	LICENSE.md
+[2024-03-27 16:29:36.403]	     | 	README.md
+[2024-03-27 16:29:36.403]	     | 	Vagrantfile
+[2024-03-27 16:29:36.403]	     | 	copycat.tmux
+[2024-03-27 16:29:36.403]	     | 	docs/customizations.md
+[2024-03-27 16:29:36.403]	     | 	docs/defining_new_stored_searches.md
+[2024-03-27 16:29:36.403]	     | 	docs/installation_for_tmux_2.3.md
+[2024-03-27 16:29:36.403]	     | 	docs/limitations.md
+[2024-03-27 16:29:36.403]	     | 	run-tests
+[2024-03-27 16:29:36.403]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_generate_results.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_git_special.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_jump.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_mode_bindings.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_mode_quit.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_mode_start.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/copycat_search.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/stored_search_helpers.sh
+[2024-03-27 16:29:36.403]	     | 	scripts/variables.sh
+[2024-03-27 16:29:36.403]	     | 	test/README.md
+[2024-03-27 16:29:36.403]	     | 	test/helpers/expect_copycat_assertions.exp
+[2024-03-27 16:29:36.403]	     | 	test/helpers/expect_copycat_helpers.exp
+[2024-03-27 16:29:36.403]	     | 	test/helpers/expect_helpers.exp
+[2024-03-27 16:29:36.403]	     | 	test/helpers/run_tmux.exp
+[2024-03-27 16:29:36.403]	     | 	test/helpers/setup.exp
+[2024-03-27 16:29:36.403]	     | 	test/helpers/setup_tmux_conf.sh
+[2024-03-27 16:29:36.403]	     | 	test/helpers/setup_tmux_conf_with_custom_searches.sh
+[2024-03-27 16:29:36.403]	     | 	test/helpers/setup_with_custom_searches.exp
+[2024-03-27 16:29:36.403]	     | 	test/helpers/test.exp
+[2024-03-27 16:29:36.403]	     | 	test/run-tests-within-vm
+[2024-03-27 16:29:36.403]	     | 	test/test_digit_search.exp
+[2024-03-27 16:29:36.403]	     | 	test/test_file_search.exp
+[2024-03-27 16:29:36.403]	     | 	test/test_free_search.exp
+[2024-03-27 16:29:36.403]	     | 	test/test_git_hash_search.exp
+[2024-03-27 16:29:36.403]	     | 	test/test_git_status_search.exp
+[2024-03-27 16:29:36.403]	     | 	test/test_url_search.exp
+[2024-03-27 16:29:36.403]	     | 	test/test_user_defined_search.exp
+[2024-03-27 16:29:36.403]	     | 	vagrant_ubuntu_provisioning_two_five.sh
+[2024-03-27 16:29:36.403]	     | 	video/README.md
+[2024-03-27 16:29:36.403]	     | 	video/screencast_img.png
+[2024-03-27 16:29:36.403]	     | 	video/script.md
+[2024-03-27 16:29:36.403]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:36.403]	     | Aborting
+[2024-03-27 16:29:36.428]	   "tmux-cpu" update fail
+[2024-03-27 16:29:36.430]	     | From https://github.com/tmux-plugins/tmux-cpu
+[2024-03-27 16:29:36.430]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:36.430]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:36.430]	     | 	.editorconfig
+[2024-03-27 16:29:36.430]	     | 	.github/workflows/check.yml
+[2024-03-27 16:29:36.430]	     | 	.mailmap
+[2024-03-27 16:29:36.430]	     | 	LICENSE
+[2024-03-27 16:29:36.430]	     | 	README.md
+[2024-03-27 16:29:36.430]	     | 	cpu.tmux
+[2024-03-27 16:29:36.430]	     | 	screenshots/high_bg.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/high_fg.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/high_icon.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/low_bg.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/low_fg.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/low_icon.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/medium_bg.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/medium_fg.png
+[2024-03-27 16:29:36.430]	     | 	screenshots/medium_icon.png
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_bg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_fg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_icon.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_percentage.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_temp.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_temp_bg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_temp_fg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/cpu_temp_icon.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_bg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_fg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_icon.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_percentage.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_temp.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_temp_bg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_temp_fg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gpu_temp_icon.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gram_bg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gram_fg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gram_icon.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/gram_percentage.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/ram_bg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/ram_fg_color.sh
+[2024-03-27 16:29:36.430]	     | 	scripts/ram_icon.sh
+[2024-03-27 16:29:36.431]	     | 	scripts/ram_percentage.sh
+[2024-03-27 16:29:36.431]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:36.431]	     | Aborting
+[2024-03-27 16:29:36.460]	   "tmux-continuum" update fail
+[2024-03-27 16:29:36.462]	     | From https://github.com/tmux-plugins/tmux-continuum
+[2024-03-27 16:29:36.462]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:36.462]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:36.462]	     | 	.gitattributes
+[2024-03-27 16:29:36.462]	     | 	CHANGELOG.md
+[2024-03-27 16:29:36.462]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:36.462]	     | 	LICENSE.md
+[2024-03-27 16:29:36.462]	     | 	README.md
+[2024-03-27 16:29:36.462]	     | 	continuum.tmux
+[2024-03-27 16:29:36.462]	     | 	docs/automatic_start.md
+[2024-03-27 16:29:36.462]	     | 	docs/continuum_status.md
+[2024-03-27 16:29:36.462]	     | 	docs/faq.md
+[2024-03-27 16:29:36.462]	     | 	docs/multiple_tmux_servers.md
+[2024-03-27 16:29:36.462]	     | 	docs/systemd_details.md
+[2024-03-27 16:29:36.462]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/continuum_restore.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/continuum_save.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/continuum_status.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/README.md
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/osx_alacritty_start_tmux.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/osx_disable.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/osx_enable.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/osx_iterm_start_tmux.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/osx_kitty_start_tmux.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/osx_terminal_start_tmux.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/systemd_disable.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/handle_tmux_automatic_start/systemd_enable.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/shared.sh
+[2024-03-27 16:29:36.462]	     | 	scripts/variables.sh
+[2024-[2024-03-27 16:29:35.251]	 Installing "tmux-copycat"
+[2024-03-27 16:29:35.252]	 Installing "tmux-resurrect"
+[2024-03-27 16:29:35.252]	 Installing "tmux-cpu"
+[2024-03-27 16:29:35.252]	 Installing "tmux-continuum"
+[2024-03-27 16:29:35.253]	 Installing "tmux"
+[2024-03-27 16:29:36.222]	   "tmux-continuum" download success
+[2024-03-27 16:29:36.228]	   "tmux-cpu" download success
+[2024-03-27 16:29:36.351]	   "tmux-copycat" download success
+[2024-03-27 16:29:36.706]	   "tmux" download success
+[2024-03-27 16:29:37.438]	   "tmux-resurrect" download success
+[2024-03-27 16:29:37.451]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+03-27 16:29:36.462]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:36.463]	     | Aborting
+[2024-03-27 16:29:36.515]	   "tmux-resurrect" update fail
+[2024-03-27 16:29:36.517]	     | From https://github.com/tmux-plugins/tmux-resurrect
+[2024-03-27 16:29:36.517]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:36.517]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:36.517]	     | 	.gitattributes
+[2024-03-27 16:29:36.517]	     | 	.gitignore
+[2024-03-27 16:29:36.517]	     | 	.gitmodules
+[2024-03-27 16:29:36.517]	     | 	.travis.yml
+[2024-03-27 16:29:36.517]	     | 	CHANGELOG.md
+[2024-03-27 16:29:36.517]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:36.517]	     | 	LICENSE.md
+[2024-03-27 16:29:36.517]	     | 	README.md
+[2024-03-27 16:29:36.517]	     | 	docs/custom_key_bindings.md
+[2024-03-27 16:29:36.517]	     | 	docs/hooks.md
+[2024-03-27 16:29:36.517]	     | 	docs/migrating_from_tmuxinator.md
+[2024-03-27 16:29:36.517]	     | 	docs/restoring_bash_history.md
+[2024-03-27 16:29:36.517]	     | 	docs/restoring_pane_contents.md
+[2024-03-27 16:29:36.517]	     | 	docs/restoring_previously_saved_environment.md
+[2024-03-27 16:29:36.517]	     | 	docs/restoring_programs.md
+[2024-03-27 16:29:36.517]	     | 	docs/restoring_vim_and_neovim_sessions.md
+[2024-03-27 16:29:36.517]	     | 	docs/save_dir.md
+[2024-03-27 16:29:36.517]	     | 	resurrect.tmux
+[2024-03-27 16:29:36.517]	     | 	run_tests
+[2024-03-27 16:29:36.517]	     | 	save_command_strategies/gdb.sh
+[2024-03-27 16:29:36.517]	     | 	save_command_strategies/linux_procfs.sh
+[2024-03-27 16:29:36.517]	     | 	save_command_strategies/pgrep.sh
+[2024-03-27 16:29:36.517]	     | 	save_command_strategies/ps.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/process_restore_helpers.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/restore.exp
+[2024-03-27 16:29:36.517]	     | 	scripts/restore.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/save.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/spinner_helpers.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/tmux_spinner.sh
+[2024-03-27 16:29:36.517]	     | 	scripts/variables.sh
+[2024-03-27 16:29:36.517]	     | 	strategies/irb_default_strategy.sh
+[2024-03-27 16:29:36.517]	     | 	strategies/mosh-client_default_strategy.sh
+[2024-03-27 16:29:36.517]	     | 	strategies/nvim_session.sh
+[2024-03-27 16:29:36.517]	     | 	strategies/vim_session.sh
+[2024-03-27 16:29:36.517]	     | 	tests/fixtures/restore_file.txt
+[2024-03-27 16:29:36.517]	     | 	tests/fixtures/save_file.txt
+[2024-03-27 16:29:36.517]	     | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:36.517]	     | 	tests/helpers/expect_helpers.exp
+[2024-03-27 16:29:36.517]	     | 	tests/helpers/helpers.sh
+[2024-03-27 16:29:36.517]	     | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:36.517]	     | 	tests/helpers/resurrect_helpers.sh
+[2024-03-27 16:29:36.517]	     | 	tests/run_tests_in_isolation
+[2024-03-27 16:29:36.517]	     | 	tests/test_resurrect_restore.sh
+[2024-03-27 16:29:36.517]	     | 	tests/test_resurrect_save.sh
+[2024-03-27 16:29:36.517]	     | 	video/issue_vid.png
+[2024-03-27 16:29:36.517]	     | 	video/screencast_img.png
+[2024-03-27 16:29:36.517]	     | 	video/script.md
+[2024-03-27 16:29:36.517]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:36.517]	     | Aborting
+[2024-03-27 16:29:37.484]	   "tmux" update fail
+[2024-03-27 16:29:37.486]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:29:37.486]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:37.486]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:37.486]	     | 	.editorconfig
+[2024-03-27 16:29:37.486]	     | 	.github/ISSUE_TEMPLATE/bug-report.md
+[2024-03-27 16:29:37.486]	     | 	.github/ISSUE_TEMPLATE/feature_request.md
+[2024-03-27 16:29:37.486]	     | 	.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+[2024-03-27 16:29:37.486]	     | 	.github/workflows/check-syntax.yml
+[2024-03-27 16:29:37.486]	     | 	.gitignore
+[2024-03-27 16:29:37.486]	     | 	.gitmodules
+[2024-03-27 16:29:37.486]	     | 	INSTALL.md
+[2024-03-27 16:29:37.486]	     | 	LICENSE
+[2024-03-27 16:29:37.486]	     | 	README.md
+[2024-03-27 16:29:37.486]	     | 	data/.gitkeep
+[2024-03-27 16:29:37.486]	     | 	dracula.tmux
+[2024-03-27 16:29:37.486]	     | 	screenshot.png
+[2024-03-27 16:29:37.486]	     | 	scripts/attached_clients.sh
+[2024-03-27 16:29:37.486]	     | 	scripts/battery.sh
+[2024-03-27 16:29:37.486]	     | 	scripts/continuum.sh
+[2024-03-27 16:29:37.486]	     | 	scripts/cpu_info.sh
+[2024-03-27 16:29:37.486]	     | 	scripts/cwd.sh
+[2024-03-27 16:29:37.486]	     | 	scripts/dracula.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/fossil.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/git.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/gpu_power.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/gpu_ram_info.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/gpu_usage.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/hg.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/kubernetes_context.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/mpc.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/network.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/network_bandwidth.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/network_ping.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/network_vpn.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/ram_info.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/spotify-tui.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/ssh_session.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/synchronize_panes.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/terraform.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/tmux_ram_info.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/utils.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/weather.sh
+[2024-03-27 16:29:37.487]	     | 	scripts/weather_wrapper.sh
+[2024-03-27 16:29:37.487]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:37.487]	     | Aborting
+[2024-03-27 16:29:37.497]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:37.555]	 Done.
+
+[2024-03-27 16:29:37.471]	 Updating all plugins!
+[2024-03-27 16:29:37.472]	 
+[2024-03-27 16:29:38.255]	   "tmux-copycat" update success
+[2024-03-27 16:29:38.259]	     | Already up to date.
+[2024-03-27 16:29:38.270]	   "tmux-cpu" update success
+[2024-03-27 16:29:38.273]	   "tmux-continuum" update success
+[2024-03-27 16:29:38.273]	     | Already up to date.
+[2024-03-27 16:29:38.276]	     | Already up to date.
+[2024-03-27 16:29:38.286]	   "tmux-resurrect" update success
+[2024-03-27 16:29:38.289]	     | Already up to date.
+[2024-03-27 16:29:38.303]	   "tmux" update success
+[2024-03-27 16:29:38.306]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:29:38.306]	     |  * [new tag]         v1.0       -> v1.0
+[2024-03-27 16:29:38.306]	     |  * [new tag]         v1.0.1     -> v1.0.1
+[2024-03-27 16:29:38.306]	     |  * [new tag]         v2.0.0     -> v2.0.0
+[2024-03-27 16:29:38.306]	     |  * [new tag]         v2.1.0     -> v2.1.0
+[2024-03-27 16:29:38.306]	     |  * [new tag]         v2.2.0     -> v2.2.0
+[2024-03-27 16:29:38.306]	     |  * [new tag]         v2.3.0     -> v2.3.0
+[2024-03-27 16:29:38.306]	     | Already up to date.
+[2024-03-27 16:29:38.317]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:38.358]	 Removing "tmux"
+[2024-03-27 16:29:38.364]	   "tmux" clean success
+[2024-03-27 16:29:38.366]	 Removing "tmux-continuum"
+[2024-03-27 16:29:38.372]	   "tmux-continuum" clean success
+[2024-03-27 16:29:38.374]	 Removing "tmux-copycat"
+[2024-03-27 16:29:38.380]	   "tmux-copycat" clean success
+[2024-03-27 16:29:38.383]	 Removing "tmux-cpu"
+[2024-03-27 16:29:38.388]	   "tmux-cpu" clean success
+[2024-03-27 16:29:38.391]	 Removing "tmux-resurrect"
+[2024-03-27 16:29:38.400]	   "tmux-resurrect" clean success
+[2024-03-27 16:29:38.413]	 Done.
+
+[2024-03-27 16:29:39.659]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:39.669]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:39.712]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:39.731]	 Updating all plugins!
+[2024-03-27 16:29:39.732]	 
+[2024-03-27 16:29:39.751]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:39.792]	 Done.
+
+[2024-03-27 16:29:44.116]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:44.125]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:44.459]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:44.468]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:44.516]	 Already installed "tmux-continuum"
+[2024-03-27 16:29:44.517]	 Already installed "tmux-cpu"
+[2024-03-27 16:29:44.517]	 Already installed "tmux"
+[2024-03-27 16:29:44.517]	 Already installed "tmux-copycat"
+[2024-03-27 16:29:44.517]	 Already installed "tmux-resurrect"
+[2024-03-27 16:29:44.527]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:44.549]	 Updating all plugins!
+[2024-03-27 16:29:44.549]	 
+[2024-03-27 16:29:45.228]	   "tmux-copycat" update fail
+[2024-03-27 16:29:45.230]	     | From https://github.com/tmux-plugins/tmux-copycat
+[2024-03-27 16:29:45.230]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:45.230]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:45.230]	     | 	.gitattributes
+[2024-03-27 16:29:45.230]	     | 	.gitignore
+[2024-03-27 16:29:45.230]	     | 	.travis.yml
+[2024-03-27 16:29:45.230]	     | 	CHANGELOG.md
+[2024-03-27 16:29:45.230]	     | 	LICENSE.md
+[2024-03-27 16:29:45.230]	     | 	README.md
+[2024-03-27 16:29:45.230]	     | 	Vagrantfile
+[2024-03-27 16:29:45.230]	     | 	copycat.tmux
+[2024-03-27 16:29:45.230]	     | 	docs/customizations.md
+[2024-03-27 16:29:45.230]	     | 	docs/defining_new_stored_searches.md
+[2024-03-27 16:29:45.230]	     | 	docs/installation_for_tmux_2.3.md
+[2024-03-27 16:29:45.230]	     | 	docs/limitations.md
+[2024-03-27 16:29:45.230]	     | 	run-tests
+[2024-03-27 16:29:45.230]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_generate_results.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_git_special.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_jump.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_mode_bindings.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_mode_quit.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_mode_start.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/copycat_search.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/stored_search_helpers.sh
+[2024-03-27 16:29:45.230]	     | 	scripts/variables.sh
+[2024-03-27 16:29:45.230]	     | 	test/README.md
+[2024-03-27 16:29:45.230]	     | 	test/helpers/expect_copycat_assertions.exp
+[2024-03-27 16:29:45.230]	     | 	test/helpers/expect_copycat_helpers.exp
+[2024-03-27 16:29:45.230]	     | 	test/helpers/expect_helpers.exp
+[2024-03-27 16:29:45.230]	     | 	test/helpers/run_tmux.exp
+[2024-03-27 16:29:45.230]	     | 	test/helpers/setup.exp
+[2024-03-27 16:29:45.230]	     | 	test/helpers/setup_tmux_conf.sh
+[2024-03-27 16:29:45.230]	     | 	test/helpers/setup_tmux_conf_with_custom_searches.sh
+[2024-03-27 16:29:45.230]	     | 	test/helpers/setup_with_custom_searches.exp
+[2024-03-27 16:29:45.230]	     | 	test/helpers/test.exp
+[2024-03-27 16:29:45.230]	     | 	test/run-tests-within-vm
+[2024-03-27 16:29:45.230]	     | 	test/test_digit_search.exp
+[2024-03-27 16:29:45.230]	     | 	test/test_file_search.exp
+[2024-03-27 16:29:45.230]	     | 	test/test_free_search.exp
+[2024-03-27 16:29:45.230]	     | 	test/test_git_hash_search.exp
+[2024-03-27 16:29:45.230]	     | 	test/test_git_status_search.exp
+[2024-03-27 16:29:45.230]	     | 	test/test_url_search.exp
+[2024-03-27 16:29:45.230]	     | 	test/test_user_defined_search.exp
+[2024-03-27 16:29:45.230]	     | 	vagrant_ubuntu_provisioning_two_five.sh
+[2024-03-27 16:29:45.230]	     | 	video/README.md
+[2024-03-27 16:29:45.230]	     | 	video/screencast_img.png
+[2024-03-27 16:29:45.230]	     | 	video/script.md
+[2024-03-27 16:29:45.230]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:45.230]	     | Aborting
+[2024-03-27 16:29:45.243]	   "tmux-cpu" update fail
+[2024-03-27 16:29:45.243]	   "tmux-continuum" update fail
+[2024-03-27 16:29:45.245]	     | From https://github.com/tmux-plugins/tmux-cpu
+[2024-03-27 16:29:45.245]	     | From https://github.com/tmux-plugins/tmux-continuum
+[2024-03-27 16:29:45.245]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:45.245]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:45.245]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:45.245]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:45.245]	     | 	.editorconfig
+[2024-03-27 16:29:45.245]	     | 	.gitattributes
+[2024-03-27 16:29:45.245]	     | 	.github/workflows/check.yml
+[2024-03-27 16:29:45.245]	     | 	CHANGELOG.md
+[2024-03-27 16:29:45.245]	     | 	.mailmap
+[2024-03-27 16:29:45.245]	     | 	LICENSE
+[2024-03-27 16:29:45.245]	     | 	README.md
+[2024-03-27 16:29:45.245]	     | 	cpu.tmux
+[2024-03-27 16:29:45.245]	     | 	screenshots/high_bg.png
+[2024-03-27 16:29:45.245]	     | 	screenshots/high_fg.png
+[2024-03-27 16:29:45.245]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:45.245]	     | 	LICENSE.md
+[2024-03-27 16:29:45.245]	     | 	README.md
+[2024-03-27 16:29:45.245]	     | 	continuum.tmux
+[2024-03-27 16:29:45.245]	     | 	screenshots/high_icon.png
+[2024-03-27 16:29:45.245]	     | 	docs/automatic_start.md
+[2024-03-27 16:29:45.245]	     | 	docs/continuum_status.md
+[2024-03-27 16:29:45.245]	     | 	screenshots/low_bg.png
+[2024-03-27 16:29:45.245]	     | 	docs/faq.md
+[2024-03-27 16:29:45.245]	     | 	screenshots/low_fg.png
+[2024-03-27 16:29:45.245]	     | 	docs/multiple_tmux_servers.md
+[2024-03-27 16:29:45.245]	     | 	screenshots/low_icon.png
+[2024-03-27 16:29:45.245]	     | 	docs/systemd_details.md
+[2024-03-27 16:29:45.245]	     | 	screenshots/medium_bg.png
+[2024-03-27 16:29:45.245]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:45.245]	     | 	screenshots/medium_fg.png
+[2024-03-27 16:29:45.245]	     | 	scripts/continuum_restore.sh
+[2024-03-27 16:29:45.245]	     | 	screenshots/medium_icon.png
+[2024-03-27 16:29:45.245]	     | 	scripts/continuum_save.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_bg_color.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/continuum_status.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_fg_color.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_icon.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/README.md
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_percentage.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/osx_alacritty_start_tmux.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_temp.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/osx_disable.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_temp_bg_color.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/osx_enable.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_temp_fg_color.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/osx_iterm_start_tmux.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/cpu_temp_icon.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/osx_kitty_start_tmux.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/gpu_bg_color.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/osx_terminal_start_tmux.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/gpu_fg_color.sh
+[2024-03-27 16:29:45.245]	     | 	scripts/handle_tmux_automatic_start/systemd_disable.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gpu_icon.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/handle_tmux_automatic_start/systemd_enable.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gpu_percentage.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gpu_temp.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/shared.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gpu_temp_bg_color.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/variables.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gpu_temp_fg_color.sh
+[2024-03-27 16:29:45.246]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:45.246]	     | 	scripts/gpu_temp_icon.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gram_bg_color.sh
+[2024-03-27 16:29:45.246]	     | Aborting
+[2024-03-27 16:29:45.246]	     | 	scripts/gram_fg_color.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gram_icon.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/gram_percentage.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/ram_bg_color.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/ram_fg_color.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/ram_icon.sh
+[2024-03-27 16:29:45.246]	     | 	scripts/ram_percentage.sh
+[2024-03-27 16:29:45.246]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:45.246]	     | Aborting
+[2024-03-27 16:29:45.303]	   "tmux-resurrect" update fail
+[2024-03-27 16:29:45.305]	     | From https://github.com/tmux-plugins/tmux-resurrect
+[2024-03-27 16:29:45.305]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:45.305]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:45.305]	     | 	.gitattributes
+[2024-03-27 16:29:45.305]	     | 	.gitignore
+[2024-03-27 16:29:45.305]	     | 	.gitmodules
+[2024-03-27 16:29:45.305]	     | 	.travis.yml
+[2024-03-27 16:29:45.305]	     | 	CHANGELOG.md
+[2024-03-27 16:29:45.305]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:45.305]	     | 	LICENSE.md
+[2024-03-27 16:29:45.305]	     | 	README.md
+[2024-03-27 16:29:45.305]	     | 	docs/custom_key_bindings.md
+[2024-03-27 16:29:45.305]	     | 	docs/hooks.md
+[2024-03-27 16:29:45.305]	     | 	docs/migrating_from_tmuxinator.md
+[2024-03-27 16:29:45.305]	     | 	docs/restoring_bash_history.md
+[2024-03-27 16:29:45.305]	     | 	docs/restoring_pane_contents.md
+[2024-03-27 16:29:45.305]	     | 	docs/restoring_previously_saved_environment.md
+[2024-03-27 16:29:45.305]	     | 	docs/restoring_programs.md
+[2024-03-27 16:29:45.305]	     | 	docs/restoring_vim_and_neovim_sessions.md
+[2024-03-27 16:29:45.305]	     | 	docs/save_dir.md
+[2024-03-27 16:29:45.305]	     | 	resurrect.tmux
+[2024-03-27 16:29:45.306]	     | 	run_tests
+[2024-03-27 16:29:45.306]	     | 	save_command_strategies/gdb.sh
+[2024-03-27 16:29:45.306]	     | 	save_command_strategies/linux_procfs.sh
+[2024-03-27 16:29:45.306]	     | 	save_command_strategies/pgrep.sh
+[2024-03-27 16:29:45.306]	     | 	save_command_strategies/ps.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/process_restore_helpers.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/restore.exp
+[2024-03-27 16:29:45.306]	     | 	scripts/restore.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/save.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/spinner_helpers.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/tmux_spinner.sh
+[2024-03-27 16:29:45.306]	     | 	scripts/variables.sh
+[2024-03-27 16:29:45.306]	     | 	strategies/irb_default_strategy.sh
+[2024-03-27 16:29:45.306]	     | 	strategies/mosh-client_default_strategy.sh
+[2024-03-27 16:29:45.306]	     | 	strategies/nvim_session.sh
+[2024-03-27 16:29:45.306]	     | 	strategies/vim_session.sh
+[2024-03-27 16:29:45.306]	     | 	tests/fixtures/restore_file.txt
+[2024-03-27 16:29:45.306]	     | 	tests/fixtures/save_file.txt
+[2024-03-27 16:29:45.306]	     | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:45.306]	     | 	tests/helpers/expect_helpers.exp
+[2024-03-27 16:29:45.306]	     | 	tests/helpers/helpers.sh
+[2024-03-27 16:29:45.306]	     | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:45.306]	     | 	tests/helpers/resurrect_helpers.sh
+[2024-03-27 16:29:45.306]	     | 	tests/run_tests_in_isolation
+[2024-03-27 16:29:45.306]	     | 	tests/test_resurrect_restore.sh
+[2024-03-27 16:29:45.306]	     | 	tests/test_resurrect_save.sh
+[2024-03-27 16:29:45.306]	     | 	video/issue_vid.png
+[2024-03-27 16:29:45.306]	     | 	video/screencast_img.png
+[2024-03-27 16:29:45.306]	     | 	video/script.md
+[2024-03-27 16:29:45.306]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:45.306]	     | Aborting
+[2024-03-27 16:29:46.233]	   "tmux" update fail
+[2024-03-27 16:29:46.237]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:29:46.237]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:46.237]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:46.237]	     | 	.editorconfig
+[2024-03-27 16:29:46.237]	     | 	.github/ISSUE_TEMPLATE/bug-report.md
+[2024-03-27 16:29:46.237]	     | 	.github/ISSUE_TEMPLATE/feature_request.md
+[2024-03-27 16:29:46.237]	     | 	.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+[2024-03-27 16:29:46.237]	     | 	.github/workflows/check-syntax.yml
+[2024-03-27 16:29:46.237]	     | 	.gitignore
+[2024-03-27 16:29:46.237]	     | 	.gitmodules
+[2024-03-27 16:29:46.237]	     | 	INSTALL.md
+[2024-03-27 16:29:46.237]	     | 	LICENSE
+[2024-03-27 16:29:46.237]	     | 	README.md
+[2024-03-27 16:29:46.237]	     | 	data/.gitkeep
+[2024-03-27 16:29:46.237]	     | 	dracula.tmux
+[2024-03-27 16:29:46.237]	     | 	screenshot.png
+[2024-03-27 16:29:46.237]	     | 	scripts/attached_clients.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/battery.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/continuum.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/cpu_info.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/cwd.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/dracula.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/fossil.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/git.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/gpu_power.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/gpu_ram_info.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/gpu_usage.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/hg.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/kubernetes_context.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/mpc.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/network.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/network_bandwidth.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/network_ping.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/network_vpn.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/ram_info.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/spotify-tui.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/ssh_session.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/synchronize_panes.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/terraform.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/tmux_ram_info.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/utils.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/weather.sh
+[2024-03-27 16:29:46.237]	     | 	scripts/weather_wrapper.sh
+[2024-03-27 16:29:46.237]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:46.237]	     | Aborting
+[2024-03-27 16:29:46.256]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:44.162]	 Installing "tmux-copycat"
+[2024-03-27 16:29:44.162]	 Installing "tmux-cpu"
+[2024-03-27 16:29:44.163]	 Installing "tmux-resurrect"
+[2024-03-27 16:29:44.163]	 Installing "tmux-continuum"
+[2024-03-27 16:29:44.164]	 Installing "tmux"
+[2024-03-27 16:29:45.110]	   "tmux-cpu" download success
+[2024-03-27 16:29:45.209]	   "tmux-copycat" download success
+[2024-03-27 16:29:45.223]	   "tmux-continuum" download success
+[2024-03-27 16:29:45.536]	   "tmux" download success
+[2024-03-27 16:29:46.262]	   "tmux-resurrect" download success
+[2024-03-27 16:29:46.276]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:46.319]	 Done.
+
+[2024-03-27 16:29:46.298]	 Updating all plugins!
+[2024-03-27 16:29:46.299]	 
+[2024-03-27 16:29:47.088]	   "tmux-copycat" update success
+[2024-03-27 16:29:47.090]	     | Already up to date.
+[2024-03-27 16:29:47.096]	   "tmux-continuum" update success
+[2024-03-27 16:29:47.098]	     | Already up to date.
+[2024-03-27 16:29:47.102]	   "tmux-resurrect" update success
+[2024-03-27 16:29:47.104]	   "tmux" update success
+[2024-03-27 16:29:47.104]	     | Already up to date.
+[2024-03-27 16:29:47.104]	   "tmux-cpu" update success
+[2024-03-27 16:29:47.106]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:29:47.106]	     |  * [new tag]         v1.0       -> v1.0
+[2024-03-27 16:29:47.106]	     |  * [new tag]         v1.0.1     -> v1.0.1
+[2024-03-27 16:29:47.106]	     |  * [new tag]         v2.0.0     -> v2.0.0
+[2024-03-27 16:29:47.106]	     |  * [new tag]         v2.1.0     -> v2.1.0
+[2024-03-27 16:29:47.106]	     |  * [new tag]         v2.2.0     -> v2.2.0
+[2024-03-27 16:29:47.106]	     |  * [new tag]         v2.3.0     -> v2.3.0
+[2024-03-27 16:29:47.106]	     | Already up to date.
+[2024-03-27 16:29:47.106]	     | Already up to date.
+[2024-03-27 16:29:47.117]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:47.149]	 Removing "tmux"
+[2024-03-27 16:29:47.156]	   "tmux" clean success
+[2024-03-27 16:29:47.159]	 Removing "tmux-continuum"
+[2024-03-27 16:29:47.163]	   "tmux-continuum" clean success
+[2024-03-27 16:29:47.165]	 Removing "tmux-copycat"
+[2024-03-27 16:29:47.170]	   "tmux-copycat" clean success
+[2024-03-27 16:29:47.172]	 Removing "tmux-cpu"
+[2024-03-27 16:29:47.176]	   "tmux-cpu" clean success
+[2024-03-27 16:29:47.178]	 Removing "tmux-resurrect"
+[2024-03-27 16:29:47.187]	   "tmux-resurrect" clean success
+[2024-03-27 16:29:47.199]	 Done.
+
+[2024-03-27 16:29:51.791]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:51.801]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:52.106]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:29:52.115]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:29:52.165]	 Already installed "tmux-copycat"
+[2024-03-27 16:29:52.165]	 Already installed "tmux"
+[2024-03-27 16:29:52.165]	 Already installed "tmux-resurrect"
+[2024-03-27 16:29:52.165]	 Already installed "tmux-cpu"
+[2024-03-27 16:29:52.165]	 Already installed "tmux-continuum"
+[2024-03-27 16:29:52.176]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:52.195]	 Updating all plugins!
+[2024-03-27 16:29:52.196]	 
+[2024-03-27 16:29:52.849]	   "tmux-cpu" update fail
+[2024-03-27 16:29:52.851]	     | From https://github.com/tmux-plugins/tmux-cpu
+[2024-03-27 16:29:52.851]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:52.851]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:52.851]	     | 	.editorconfig
+[2024-03-27 16:29:52.851]	     | 	.github/workflows/check.yml
+[2024-03-27 16:29:52.851]	     | 	.mailmap
+[2024-03-27 16:29:52.851]	     | 	LICENSE
+[2024-03-27 16:29:52.851]	     | 	README.md
+[2024-03-27 16:29:52.851]	     | 	cpu.tmux
+[2024-03-27 16:29:52.851]	     | 	screenshots/high_bg.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/high_fg.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/high_icon.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/low_bg.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/low_fg.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/low_icon.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/medium_bg.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/medium_fg.png
+[2024-03-27 16:29:52.851]	     | 	screenshots/medium_icon.png
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_bg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_fg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_icon.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_percentage.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_temp.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_temp_bg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_temp_fg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/cpu_temp_icon.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_bg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_fg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_icon.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_percentage.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_temp.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_temp_bg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_temp_fg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gpu_temp_icon.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gram_bg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gram_fg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gram_icon.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/gram_percentage.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/ram_bg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/ram_fg_color.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/ram_icon.sh
+[2024-03-27 16:29:52.851]	     | 	scripts/ram_percentage.sh
+[2024-03-27 16:29:52.851]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:52.851]	     | Aborting
+[2024-03-27 16:29:52.881]	   "tmux-continuum" update fail
+[2024-03-27 16:29:52.883]	     | From https://github.com/tmux-plugins/tmux-continuum
+[2024-03-27 16:29:52.883]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:52.883]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:52.883]	     | 	.gitattributes
+[2024-03-27 16:29:52.883]	     | 	CHANGELOG.md
+[2024-03-27 16:29:52.883]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:52.883]	     | 	LICENSE.md
+[2024-03-27 16:29:52.883]	     | 	README.md
+[2024-03-27 16:29:52.883]	     | 	continuum.tmux
+[2024-03-27 16:29:52.883]	     | 	docs/automatic_start.md
+[2024-03-27 16:29:52.883]	     | 	docs/continuum_status.md
+[2024-03-27 16:29:52.883]	     | 	docs/faq.md
+[2024-03-27 16:29:52.883]	     | 	docs/multiple_tmux_servers.md
+[2024-03-27 16:29:52.883]	     | 	docs/systemd_details.md
+[2024-03-27 16:29:52.883]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/continuum_restore.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/continuum_save.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/continuum_status.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/README.md
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/osx_alacritty_start_tmux.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/osx_disable.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/osx_enable.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/osx_iterm_start_tmux.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/osx_kitty_start_tmux.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/osx_terminal_start_tmux.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/systemd_disable.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/handle_tmux_automatic_start/systemd_enable.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/shared.sh
+[2024-03-27 16:29:52.883]	     | 	scripts/variables.sh
+[2024-03-27 16:29:52.883]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:52.883]	     | Aborting
+[2024-03-27 16:29:53.868]	   "tmux-copycat" update fail
+[2024-03-27 16:29:53.873]	     | From https://github.com/tmux-plugins/tmux-copycat
+[2024-03-27 16:29:53.873]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:53.873]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:53.873]	     | 	.gitattributes
+[2024-03-27 16:29:53.873]	     | 	.gitignore
+[2024-03-27 16:29:53.873]	     | 	.travis.yml
+[2024-03-27 16:29:53.873]	     | 	CHANGELOG.md
+[2024-03-27 16:29:53.873]	     | 	LICENSE.md
+[2024-03-27 16:29:53.873]	     | 	README.md
+[2024-03-27 16:29:53.873]	     | 	Vagrantfile
+[2024-03-27 16:29:53.873]	     | 	copycat.tmux
+[2024-03-27 16:29:53.873]	     | 	docs/customizations.md
+[2024-03-27 16:29:53.873]	     | 	docs/defining_new_stored_searches.md
+[2024-03-27 16:29:53.873]	     | 	docs/installation_for_tmux_2.3.md
+[2024-03-27 16:29:53.873]	     | 	docs/limitations.md
+[2024-03-27 16:29:53.873]	     | 	run-tests
+[2024-03-27 16:29:53.873]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_generate_results.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_git_special.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_jump.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_mode_bindings.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_mode_quit.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_mode_start.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/copycat_search.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/stored_search_helpers.sh
+[2024-03-27 16:29:53.873]	     | 	scripts/variables.sh
+[2024-03-27 16:29:53.873]	     | 	test/README.md
+[2024-03-27 16:29:53.873]	     | 	test/helpers/expect_copycat_assertions.exp
+[2024-03-27 16:29:53.873]	     | 	test/helpers/expect_copycat_helpers.exp
+[2024-03-27 16:29:53.873]	     | 	test/helpers/expect_helpers.exp
+[2024-03-27 16:29:53.873]	     | 	test/helpers/run_tmux.exp
+[2024-03-27 16:29:53.873]	     | 	test/helpers/setup.exp
+[2024-03-27 16:29:53.873]	     | 	test/helpers/setup_tmux_conf.sh
+[2024-03-27 16:29:53.873]	     | 	test/helpers/setup_tmux_conf_with_custom_searches.sh
+[2024-03-27 16:29:53.873]	     | 	test/helpers/setup_with_custom_searches.exp
+[2024-03-27 16:29:53.873]	     | 	test/helpers/test.exp
+[2024-03-27 16:29:53.873]	     | 	test/run-tests-within-vm
+[2024-03-27 16:29:53.873]	     | 	test/test_digit_search.exp
+[2024-03-27 16:29:53.873]	     | 	test/test_file_search.exp
+[2024-03-27 16:29:53.873]	     | 	test/test_free_search.exp
+[2024-03-27 16:29:53.873]	     | 	test/test_git_hash_search.exp
+[2024-03-27 16:29:53.873]	     | 	test/test_git_status_search.exp
+[2024-03-27 16:29:53.873]	     | 	test/test_url_search.exp
+[2024-03-27 16:29:53.873]	     | 	test/test_user_defined_search.exp
+[2024-03-27 16:29:53.873]	     | 	vagrant_ubuntu_provisioning_two_five.sh
+[2024-03-27 16:29:53.873]	     | 	video/README.md
+[2024-03-27 16:29:53.873]	     | 	video/screencast_img.png
+[2024-03-27 16:29:53.873]	     | 	video/script.md
+[2024-03-27 16:29:53.873]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:53.873]	     | Aborting
+[2024-03-27 16:29:54.624]	   "tmux" update fail
+[2024-03-27 16:29:54.629]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:29:54.629]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:54.629]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:54.629]	     | 	.editorconfig
+[2024-03-27 16:29:54.629]	     | 	.github/ISSUE_TEMPLATE/bug-report.md
+[2024-03-27 16:29:54.629]	     | 	.github/ISSUE_TEMPLATE/feature_request.md
+[2024-03-27 16:29:54.629]	     | 	.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+[2024-03-27 16:29:54.629]	     | 	.github/workflows/check-syntax.yml
+[2024-03-27 16:29:54.629]	     | 	.gitignore
+[2024-03-27 16:29:54.629]	     | 	.gitmodules
+[2024-03-27 16:29:54.629]	     | 	INSTALL.md
+[2024-03-27 16:29:54.629]	     | 	LICENSE
+[2024-03-27 16:29:54.629]	     | 	README.md
+[2024-03-27 16:29:54.629]	     | 	data/.gitkeep
+[2024-03-27 16:29:54.629]	     | 	dracula.tmux
+[2024-03-27 16:29:54.629]	     | 	screenshot.png
+[2024-03-27 16:29:54.629]	     | 	scripts/attached_clients.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/battery.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/continuum.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/cpu_info.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/cwd.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/dracula.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/fossil.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/git.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/gpu_power.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/gpu_ram_info.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/gpu_usage.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/hg.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/kubernetes_context.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/mpc.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/network.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/network_bandwidth.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/network_ping.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/network_vpn.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/ram_info.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/spotify-tui.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/ssh_session.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/synchronize_panes.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/terraform.sh
+[2024-03-27 16:29:54.629]	     | 	scripts/tmux_ram_info.sh
+[2024-03-27 16:29:54.630]	     | 	scripts/utils.sh
+[2024-03-27 16:29:54.630]	     | 	scripts/weather.sh
+[2024-03-27 16:29:54.630]	     | 	scripts/weather_wrapper.sh
+[2024-03-27 16:29:54.630]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:54.630]	     | Aborting
+[2024-03-27 16:29:54.648]	   "tmux-resurrect" update fail
+[2024-03-27 16:29:54.651]	     | From https://github.com/tmux-plugins/tmux-resurrect
+[2024-03-27 16:29:54.651]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:29:54.651]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:29:54.651]	     | 	.gitattributes
+[2024-03-27 16:29:54.651]	     | 	.gitignore
+[2024-03-27 16:29:54.651]	     | 	.gitmodules
+[2024-03-27 16:29:54.651]	     | 	.travis.yml
+[2024-03-27 16:29:54.651]	     | 	CHANGELOG.md
+[2024-03-27 16:29:54.651]	     | 	CONTRIBUTING.md
+[2024-03-27 16:29:54.651]	     | 	LICENSE.md
+[2024-03-27 16:29:54.651]	     | 	README.md
+[2024-03-27 16:29:54.651]	     | 	docs/custom_key_bindings.md
+[2024-03-27 16:29:54.651]	     | 	docs/hooks.md
+[2024-03-27 16:29:54.651]	     | 	docs/migrating_from_tmuxinator.md
+[2024-03-27 16:29:54.651]	     | 	docs/restoring_bash_history.md
+[2024-03-27 16:29:54.651]	     | 	docs/restoring_pane_contents.md
+[2024-03-27 16:29:54.651]	     | 	docs/restoring_previously_saved_environment.md
+[2024-03-27 16:29:54.651]	     | 	docs/restoring_programs.md
+[2024-03-27 16:29:54.651]	     | 	docs/restoring_vim_and_neovim_sessions.md
+[2024-03-27 16:29:54.651]	     | 	docs/save_dir.md
+[2024-03-27 16:29:54.651]	     | 	resurrect.tmux
+[2024-03-27 16:29:54.651]	     | 	run_tests
+[2024-03-27 16:29:54.651]	     | 	save_command_strategies/gdb.sh
+[2024-03-27 16:29:54.651]	     | 	save_command_strategies/linux_procfs.sh
+[2024-03-27 16:29:54.651]	     | 	save_command_strategies/pgrep.sh
+[2024-03-27 16:29:54.651]	     | 	save_command_strategies/ps.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/helpers.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/process_restore_helpers.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/restore.exp
+[2024-03-27 16:29:54.651]	     | 	scripts/restore.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/save.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/spinner_helpers.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/tmux_spinner.sh
+[2024-03-27 16:29:54.651]	     | 	scripts/variables.sh
+[2024-03-27 16:29:54.651]	     | 	strategies/irb_default_strategy.sh
+[2024-03-27 16:29:54.651]	     | 	strategies/mosh-client_default_strategy.sh
+[2024-03-27 16:29:54.651]	     | 	strategies/nvim_session.sh
+[2024-03-27 16:29:54.651]	     | 	strategies/vim_session.sh
+[2024-03-27 16:29:54.651]	     | 	tests/fixtures/restore_file.txt
+[2024-03-27 16:29:54.651]	     | 	tests/fixtures/save_file.txt
+[2024-03-27 16:29:54.651]	     | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:54.651]	     | 	tests/helpers/expect_helpers.exp
+[2024-03-27 16:29:54.651]	     | 	tests/helpers/helpers.sh
+[2024-03-27 16:29:54.651]	     | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2024-03-27 16:29:54.651]	     | 	tests/helpers/resurrect_helpers.sh
+[2024-03-27 16:29:54.651]	     | 	tests/run_tests_in_isolation
+[2024-03-27 16:29:54.652]	     | 	tests/test_resurrect_restore.sh
+[2024-03-27 16:29:54.652]	     | 	tests/test_resurrect_save.sh
+[2024-03-27 16:29:54.652]	     | 	video/issue_vid.png
+[2024-03-27 16:29:54.652]	     | 	video/screencast_img.png
+[2024-03-27 16:29:54.652]	     | 	video/script.md
+[2024-03-27 16:29:54.652]	     | Please move or remove them before you merge.
+[2024-03-27 16:29:54.652]	     | Aborting
+[2024-03-27 16:29:54.663]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:54.715]	 Done.
+
+[2024-03-27 16:29:51.839]	 Installing "tmux-copycat"
+[2024-03-27 16:29:51.840]	 Installing "tmux-cpu"
+[2024-03-27 16:29:51.840]	 Installing "tmux-resurrect"
+[2024-03-27 16:29:51.841]	 Installing "tmux-continuum"
+[2024-03-27 16:29:51.842]	 Installing "tmux"
+[2024-03-27 16:29:52.866]	   "tmux-cpu" download success
+[2024-03-27 16:29:52.881]	   "tmux-continuum" download success
+[2024-03-27 16:29:52.937]	   "tmux-copycat" download success
+[2024-03-27 16:29:53.365]	   "tmux" download success
+[2024-03-27 16:29:54.792]	   "tmux-resurrect" download success
+[2024-03-27 16:29:54.802]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:29:54.821]	 Updating all plugins!
+[2024-03-27 16:29:54.821]	 
+[2024-03-27 16:29:54.840]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:29:54.870]	 Removing "tmux"
+[2024-03-27 16:29:54.876]	   "tmux" clean success
+[2024-03-27 16:29:54.878]	 Removing "tmux-continuum"
+[2024-03-27 16:29:54.882]	   "tmux-continuum" clean success
+[2024-03-27 16:29:54.884]	 Removing "tmux-copycat"
+[2024-03-27 16:29:54.889]	   "tmux-copycat" clean success
+[2024-03-27 16:29:54.891]	 Removing "tmux-cpu"
+[2024-03-27 16:29:54.895]	   "tmux-cpu" clean success
+[2024-03-27 16:29:54.897]	 Removing "tmux-resurrect"
+[2024-03-27 16:29:54.905]	   "tmux-resurrect" clean success
+[2024-03-27 16:29:54.916]	 Done.
+
+[2024-03-27 16:30:07.105]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:30:07.114]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:30:07.153]	 Installing "tmux-copycat"
+[2024-03-27 16:30:07.154]	 Installing "tmux-cpu"
+[2024-03-27 16:30:07.155]	 Installing "tmux-resurrect"
+[2024-03-27 16:30:07.155]	 Installing "tmux-continuum"
+[2024-03-27 16:30:07.155]	 Installing "tmux"
+[2024-03-27 16:30:08.174]	   "tmux-continuum" download success
+[2024-03-27 16:30:08.287]	   "tmux-copycat" download success
+[2024-03-27 16:30:08.438]	   "tmux" download success
+[2024-03-27 16:30:08.499]	   "tmux-cpu" download success
+[2024-03-27 16:30:09.230]	   "tmux-resurrect" download success
+[2024-03-27 16:30:09.241]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:30:09.268]	 Updating all plugins!
+[2024-03-27 16:30:09.268]	 
+[2024-03-27 16:30:10.025]	   "tmux-copycat" update success
+[2024-03-27 16:30:10.031]	     | Already up to date.
+[2024-03-27 16:30:10.037]	   "tmux-cpu" update success
+[2024-03-27 16:30:10.042]	     | Already up to date.
+[2024-03-27 16:30:10.114]	   "tmux-continuum" update success
+[2024-03-27 16:30:10.117]	   "tmux-resurrect" update success
+[2024-03-27 16:30:10.117]	     | Already up to date.
+[2024-03-27 16:30:10.120]	     | Already up to date.
+[2024-03-27 16:30:10.140]	   "tmux" update success
+[2024-03-27 16:30:10.143]	     | Already up to date.
+[2024-03-27 16:30:10.154]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:30:10.215]	 Done.
+
+[2024-03-27 16:30:11.715]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:30:11.725]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:30:11.766]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:30:11.768]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:30:11.776]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:30:11.789]	 Updating all plugins!
+[2024-03-27 16:30:11.790]	 
+[2024-03-27 16:30:11.810]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:30:11.818]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:30:11.838]	 Updating all plugins!
+[2024-03-27 16:30:11.838]	 
+[2024-03-27 16:30:11.858]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:30:11.845]	 Removing "tmux"
+[2024-03-27 16:30:11.850]	   "tmux" clean success
+[2024-03-27 16:30:11.852]	 Removing "tmux-continuum"
+[2024-03-27 16:30:11.856]	   "tmux-continuum" clean success
+[2024-03-27 16:30:11.858]	 Removing "tmux-copycat"
+[2024-03-27 16:30:11.863]	   "tmux-copycat" clean success
+[2024-03-27 16:30:11.866]	 Removing "tmux-cpu"
+[2024-03-27 16:30:11.871]	   "tmux-cpu" clean success
+[2024-03-27 16:30:11.873]	 Removing "tmux-resurrect"
+[2024-03-27 16:30:11.881]	   "tmux-resurrect" clean success
+[2024-03-27 16:30:11.893]	 Done.
+
+[2024-03-27 16:30:11.906]	 Done.
+
+[2024-03-27 16:31:18.037]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:18.047]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:18.084]	 Installing "tmux-copycat"
+[2024-03-27 16:31:18.084]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:18.084]	 Installing "tmux-cpu"
+[2024-03-27 16:31:18.085]	 Installing "tmux-resurrect"
+[2024-03-27 16:31:18.085]	 Installing "tmux-continuum"
+[2024-03-27 16:31:18.086]	 Installing "tmux"
+[2024-03-27 16:31:18.615]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:19.058]	   "tmux-continuum" download success
+[2024-03-27 16:31:19.119]	   "tmux-cpu" download success
+[2024-03-27 16:31:19.200]	   "tmux-copycat" download success
+[2024-03-27 16:31:19.398]	   "tmux" download success
+[2024-03-27 16:31:20.367]	   "tmux-resurrect" download success
+[2024-03-27 16:31:20.380]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:20.411]	 Updating all plugins!
+[2024-03-27 16:31:20.413]	 
+[2024-03-27 16:31:21.157]	   "tmux-resurrect" update success
+[2024-03-27 16:31:21.159]	   "tmux-cpu" update success
+[2024-03-27 16:31:21.160]	     | Already up to date.
+[2024-03-27 16:31:21.161]	   "tmux-copycat" update success
+[2024-03-27 16:31:21.163]	     | Already up to date.
+[2024-03-27 16:31:21.165]	     | Already up to date.
+[2024-03-27 16:31:21.177]	   "tmux-continuum" update success
+[2024-03-27 16:31:21.180]	     | Already up to date.
+[2024-03-27 16:31:21.199]	   "tmux" update success
+[2024-03-27 16:31:21.201]	     | Already up to date.
+[2024-03-27 16:31:21.212]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:21.279]	 Done.
+
+[2024-03-27 16:31:22.756]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:22.765]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:22.803]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:22.813]	 Already installed "tmux-copycat"
+[2024-03-27 16:31:22.813]	 Already installed "tmux-cpu"
+[2024-03-27 16:31:22.814]	 Already installed "tmux-continuum"
+[2024-03-27 16:31:22.815]	 Already installed "tmux"
+[2024-03-27 16:31:22.815]	 Already installed "tmux-resurrect"
+[2024-03-27 16:31:23.429]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:23.443]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:23.511]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:23.521]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:23.566]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:23.577]	 Already installed "tmux-cpu"
+[2024-03-27 16:31:23.577]	 Already installed "tmux-copycat"
+[2024-03-27 16:31:23.578]	 Already installed "tmux-resurrect"
+[2024-03-27 16:31:23.579]	 Already installed "tmux-continuum"
+[2024-03-27 16:31:23.580]	 Already installed "tmux"
+[2024-03-27 16:31:24.101]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:24.112]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:23.466]	 Updating all plugins!
+[2024-03-27 16:31:23.466]	 
+[2024-03-27 16:31:24.234]	   "tmux-cpu" update success
+[2024-03-27 16:31:24.237]	     | Already up to date.
+[2024-03-27 16:31:24.246]	   "tmux-copycat" update success
+[2024-03-27 16:31:24.249]	     | Already up to date.
+[2024-03-27 16:31:24.250]	   "tmux-resurrect" update success
+[2024-03-27 16:31:24.253]	     | Already up to date.
+[2024-03-27 16:31:24.256]	   "tmux-continuum" update success
+[2024-03-27 16:31:24.258]	     | Already up to date.
+[2024-03-27 16:31:24.606]	   "tmux" update success
+[2024-03-27 16:31:24.608]	     | Already up to date.
+[2024-03-27 16:31:24.619]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:24.674]	 Done.
+
+[2024-03-27 16:31:24.133]	 Updating all plugins!
+[2024-03-27 16:31:24.133]	 
+[2024-03-27 16:31:24.896]	   "tmux" update fail
+[2024-03-27 16:31:24.899]	     | fatal: Cannot rebase onto multiple branches.
+[2024-03-27 16:31:24.902]	   "tmux-copycat" update success
+[2024-03-27 16:31:24.903]	   "tmux-cpu" update success
+[2024-03-27 16:31:24.905]	     | Already up to date.
+[2024-03-27 16:31:24.905]	     | Already up to date.
+[2024-03-27 16:31:24.910]	   "tmux-resurrect" update success
+[2024-03-27 16:31:24.912]	     | Already up to date.
+[2024-03-27 16:31:24.953]	   "tmux-continuum" update success
+[2024-03-27 16:31:24.955]	     | Already up to date.
+[2024-03-27 16:31:24.965]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:24.996]	 Removing "tmux"
+[2024-03-27 16:31:25.002]	   "tmux" clean success
+[2024-03-27 16:31:25.004]	 Removing "tmux-continuum"
+[2024-03-27 16:31:25.008]	   "tmux-continuum" clean success
+[2024-03-27 16:31:25.010]	 Removing "tmux-copycat"
+[2024-03-27 16:31:25.015]	   "tmux-copycat" clean success
+[2024-03-27 16:31:25.017]	 Removing "tmux-cpu"
+[2024-03-27 16:31:25.021]	   "tmux-cpu" clean success
+[2024-03-27 16:31:25.023]	 Removing "tmux-resurrect"
+[2024-03-27 16:31:25.031]	   "tmux-resurrect" clean success
+[2024-03-27 16:31:25.042]	 Done.
+
+[2024-03-27 16:31:31.542]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:31.552]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:31.590]	 Installing "tmux-copycat"
+[2024-03-27 16:31:31.591]	 Installing "tmux-cpu"
+[2024-03-27 16:31:31.591]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:31.591]	 Installing "tmux-resurrect"
+[2024-03-27 16:31:31.592]	 Installing "tmux-continuum"
+[2024-03-27 16:31:31.592]	 Installing "tmux"
+[2024-03-27 16:31:32.157]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:32.687]	   "tmux-continuum" download success
+[2024-03-27 16:31:32.690]	   "tmux-cpu" download success
+[2024-03-27 16:31:32.825]	   "tmux-copycat" download success
+[2024-03-27 16:31:32.860]	   "tmux" download success
+[2024-03-27 16:31:33.872]	   "tmux-resurrect" download success
+[2024-03-27 16:31:33.884]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:33.905]	 Updating all plugins!
+[2024-03-27 16:31:33.905]	 
+[2024-03-27 16:31:34.713]	   "tmux-continuum" update success
+[2024-03-27 16:31:34.718]	     | Already up to date.
+[2024-03-27 16:31:34.722]	   "tmux-cpu" update success
+[2024-03-27 16:31:34.723]	   "tmux-copycat" update success
+[2024-03-27 16:31:34.724]	     | Already up to date.
+[2024-03-27 16:31:34.725]	     | Already up to date.
+[2024-03-27 16:31:34.729]	   "tmux" update success
+[2024-03-27 16:31:34.732]	     | Already up to date.
+[2024-03-27 16:31:34.742]	   "tmux-resurrect" update success
+[2024-03-27 16:31:34.745]	     | Already up to date.
+[2024-03-27 16:31:34.755]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:34.813]	 Done.
+
+[2024-03-27 16:31:36.492]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:36.501]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:36.539]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:36.549]	 Already installed "tmux-copycat"
+[2024-03-27 16:31:36.549]	 Already installed "tmux-cpu"
+[2024-03-27 16:31:36.550]	 Already installed "tmux-resurrect"
+[2024-03-27 16:31:36.550]	 Already installed "tmux-continuum"
+[2024-03-27 16:31:36.550]	 Already installed "tmux"
+[2024-03-27 16:31:37.134]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:37.152]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:37.500]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:37.508]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:37.175]	 Updating all plugins!
+[2024-03-27 16:31:37.176]	 
+[2024-03-27 16:31:37.853]	   "tmux-copycat" update success
+[2024-03-27 16:31:37.856]	     | Already up to date.
+[2024-03-27 16:31:37.872]	   "tmux-cpu" update success
+[2024-03-27 16:31:37.874]	     | Already up to date.
+[2024-03-27 16:31:37.896]	   "tmux-continuum" update success
+[2024-03-27 16:31:37.899]	     | Already up to date.
+[2024-03-27 16:31:37.924]	   "tmux-resurrect" update success
+[2024-03-27 16:31:37.926]	     | Already up to date.
+[2024-03-27 16:31:37.948]	   "tmux" update success
+[2024-03-27 16:31:37.950]	     | Already up to date.
+[2024-03-27 16:31:37.962]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:38.016]	 Done.
+
+[2024-03-27 16:31:37.549]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:37.560]	 Already installed "tmux-resurrect"
+[2024-03-27 16:31:37.561]	 Already installed "tmux-copycat"
+[2024-03-27 16:31:37.561]	 Already installed "tmux-cpu"
+[2024-03-27 16:31:37.561]	 Already installed "tmux-continuum"
+[2024-03-27 16:31:37.562]	 Already installed "tmux"
+[2024-03-27 16:31:38.059]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:38.069]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:38.088]	 Updating all plugins!
+[2024-03-27 16:31:38.088]	 
+[2024-03-27 16:31:38.108]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:38.139]	 Removing "tmux"
+[2024-03-27 16:31:38.144]	   "tmux" clean success
+[2024-03-27 16:31:38.146]	 Removing "tmux-continuum"
+[2024-03-27 16:31:38.151]	   "tmux-continuum" clean success
+[2024-03-27 16:31:38.153]	 Removing "tmux-copycat"
+[2024-03-27 16:31:38.159]	   "tmux-copycat" clean success
+[2024-03-27 16:31:38.162]	 Removing "tmux-cpu"
+[2024-03-27 16:31:38.167]	   "tmux-cpu" clean success
+[2024-03-27 16:31:38.169]	 Removing "tmux-resurrect"
+[2024-03-27 16:31:38.177]	   "tmux-resurrect" clean success
+[2024-03-27 16:31:38.189]	 Done.
+
+[2024-03-27 16:31:44.679]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:44.688]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:45.139]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-mem-cpu-load tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum dracula/tmux
+[2024-03-27 16:31:45.150]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/install_plugins
+[2024-03-27 16:31:45.212]	 Already installed "tmux-copycat"
+[2024-03-27 16:31:45.212]	 Already installed "tmux-resurrect"
+[2024-03-27 16:31:45.212]	 Already installed "tmux-cpu"
+[2024-03-27 16:31:45.213]	 Already installed "tmux"
+[2024-03-27 16:31:45.213]	 Already installed "tmux-continuum"
+[2024-03-27 16:31:45.213]	 Already installed "tmux-mem-cpu-load"
+[2024-03-27 16:31:45.224]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:45.244]	 Updating all plugins!
+[2024-03-27 16:31:45.245]	 
+[2024-03-27 16:31:45.902]	   "tmux-copycat" update fail
+[2024-03-27 16:31:45.904]	     | From https://github.com/tmux-plugins/tmux-copycat
+[2024-03-27 16:31:45.904]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:31:45.904]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:31:45.904]	     | 	.gitattributes
+[2024-03-27 16:31:45.904]	     | 	.gitignore
+[2024-03-27 16:31:45.904]	     | 	.travis.yml
+[2024-03-27 16:31:45.904]	     | 	CHANGELOG.md
+[2024-03-27 16:31:45.904]	     | 	LICENSE.md
+[2024-03-27 16:31:45.904]	     | 	README.md
+[2024-03-27 16:31:45.904]	     | 	Vagrantfile
+[2024-03-27 16:31:45.904]	     | 	copycat.tmux
+[2024-03-27 16:31:45.904]	     | 	docs/customizations.md
+[2024-03-27 16:31:45.904]	     | 	docs/defining_new_stored_searches.md
+[2024-03-27 16:31:45.904]	     | 	docs/installation_for_tmux_2.3.md
+[2024-03-27 16:31:45.904]	     | 	docs/limitations.md
+[2024-03-27 16:31:45.904]	     | 	run-tests
+[2024-03-27 16:31:45.904]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_generate_results.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_git_special.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_jump.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_mode_bindings.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_mode_quit.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_mode_start.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/copycat_search.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/helpers.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/stored_search_helpers.sh
+[2024-03-27 16:31:45.904]	     | 	scripts/variables.sh
+[2024-03-27 16:31:45.904]	     | 	test/README.md
+[2024-03-27 16:31:45.904]	     | 	test/helpers/expect_copycat_assertions.exp
+[2024-03-27 16:31:45.904]	     | 	test/helpers/expect_copycat_helpers.exp
+[2024-03-27 16:31:45.904]	     | 	test/helpers/expect_helpers.exp
+[2024-03-27 16:31:45.904]	     | 	test/helpers/run_tmux.exp
+[2024-03-27 16:31:45.904]	     | 	test/helpers/setup.exp
+[2024-03-27 16:31:45.904]	     | 	test/helpers/setup_tmux_conf.sh
+[2024-03-27 16:31:45.904]	     | 	test/helpers/setup_tmux_conf_with_custom_searches.sh
+[2024-03-27 16:31:45.904]	     | 	test/helpers/setup_with_custom_searches.exp
+[2024-03-27 16:31:45.904]	     | 	test/helpers/test.exp
+[2024-03-27 16:31:45.904]	     | 	test/run-tests-within-vm
+[2024-03-27 16:31:45.904]	     | 	test/test_digit_search.exp
+[2024-03-27 16:31:45.904]	     | 	test/test_file_search.exp
+[2024-03-27 16:31:45.904]	     | 	test/test_free_search.exp
+[2024-03-27 16:31:45.904]	     | 	test/test_git_hash_search.exp
+[2024-03-27 16:31:45.904]	     | 	test/test_git_status_search.exp
+[2024-03-27 16:31:45.904]	     | 	test/test_url_search.exp
+[2024-03-27 16:31:45.904]	     | 	test/test_user_defined_search.exp
+[2024-03-27 16:31:45.904]	     | 	vagrant_ubuntu_provisioning_two_five.sh
+[2024-03-27 16:31:45.904]	     | 	video/README.md
+[2024-03-27 16:31:45.904]	     | 	video/screencast_img.png
+[2024-03-27 16:31:45.904]	     | 	video/script.md
+[2024-03-27 16:31:45.904]	     | Please move or remove them before you merge.
+[2024-03-27 16:31:45.904]	     | Aborting
+[2024-03-27 16:31:45.921]	   "tmux-continuum" update fail
+[2024-03-27 16:31:45.923]	     | From https://github.com/tmux-plugins/tmux-continuum
+[2024-03-27 16:31:45.923]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:31:45.923]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:31:45.923]	     | 	.gitattributes
+[2024-03-27 16:31:45.923]	     | 	CHANGELOG.md
+[2024-03-27 16:31:45.923]	     | 	CONTRIBUTING.md
+[2024-03-27 16:31:45.923]	     | 	LICENSE.md
+[2024-03-27 16:31:45.923]	     | 	README.md
+[2024-03-27 16:31:45.923]	     | 	continuum.tmux
+[2024-03-27 16:31:45.923]	     | 	docs/automatic_start.md
+[2024-03-27 16:31:45.923]	     | 	docs/continuum_status.md
+[2024-03-27 16:31:45.923]	     | 	docs/faq.md
+[2024-03-27 16:31:45.923]	     | 	docs/multiple_tmux_servers.md
+[2024-03-27 16:31:45.923]	     | 	docs/systemd_details.md
+[2024-03-27 16:31:45.923]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/continuum_restore.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/continuum_save.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/continuum_status.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/README.md
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/osx_alacritty_start_tmux.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/osx_disable.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/osx_enable.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/osx_iterm_start_tmux.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/osx_kitty_start_tmux.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/osx_terminal_start_tmux.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/systemd_disable.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/handle_tmux_automatic_start/systemd_enable.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/helpers.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/shared.sh
+[2024-03-27 16:31:45.923]	     | 	scripts/variables.sh
+[2024-03-27 16:31:45.923]	     | Please move or remove them before you merge.
+[2024-03-27 16:31:45.923]	     | Aborting
+[2024-03-27 16:31:45.940]	   "tmux-cpu" update fail
+[2024-03-27 16:31:45.942]	     | From https://github.com/tmux-plugins/tmux-cpu
+[2024-03-27 16:31:45.942]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:31:45.942]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:31:45.942]	     | 	.editorconfig
+[2024-03-27 16:31:45.942]	     | 	.github/workflows/check.yml
+[2024-03-27 16:31:45.942]	     | 	.mailmap
+[2024-03-27 16:31:45.942]	     | 	LICENSE
+[2024-03-27 16:31:45.942]	     | 	README.md
+[2024-03-27 16:31:45.942]	     | 	cpu.tmux
+[2024-03-27 16:31:45.942]	     | 	screenshots/high_bg.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/high_fg.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/high_icon.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/low_bg.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/low_fg.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/low_icon.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/medium_bg.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/medium_fg.png
+[2024-03-27 16:31:45.942]	     | 	screenshots/medium_icon.png
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_bg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_fg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_icon.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_percentage.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_temp.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_temp_bg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_temp_fg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/cpu_temp_icon.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_bg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_fg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_icon.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_percentage.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_temp.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_temp_bg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_temp_fg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gpu_temp_icon.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gram_bg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gram_fg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gram_icon.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/gram_percentage.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/helpers.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/ram_bg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/ram_fg_color.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/ram_icon.sh
+[2024-03-27 16:31:45.942]	     | 	scripts/ram_percentage.sh
+[2024-03-27 16:31:45.942]	     | Please move or remove them before you merge.
+[2024-03-27 16:31:45.942]	     | Aborting
+[2024-03-27 16:31:46.007]	   "tmux-resurrect" update fail
+[2024-03-27 16:31:46.010]	     | From https://github.com/tmux-plugins/tmux-resurrect
+[2024-03-27 16:31:46.010]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:31:46.010]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:31:46.010]	     | 	.gitattributes
+[2024-03-27 16:31:46.010]	     | 	.gitignore
+[2024-03-27 16:31:46.010]	     | 	.gitmodules
+[2024-03-27 16:31:46.010]	     | 	.travis.yml
+[2024-03-27 16:31:46.010]	     | 	CHANGELOG.md
+[2024-03-27 16:31:46.010]	     | 	CONTRIBUTING.md
+[2024-03-27 16:31:46.010]	     | 	LICENSE.md
+[2024-03-27 16:31:46.010]	     | 	README.md
+[2024-03-27 16:31:46.010]	     | 	docs/custom_key_bindings.md
+[2024-03-27 16:31:46.010]	     | 	docs/hooks.md
+[2024-03-27 16:31:46.010]	     | 	docs/migrating_from_tmuxinator.md
+[2024-03-27 16:31:46.010]	     | 	docs/restoring_bash_history.md
+[2024-03-27 16:31:46.010]	     | 	docs/restoring_pane_contents.md
+[2024-03-27 16:31:46.010]	     | 	docs/restoring_previously_saved_environment.md
+[2024-03-27 16:31:46.010]	     | 	docs/restoring_programs.md
+[2024-03-27 16:31:46.010]	     | 	docs/restoring_vim_and_neovim_sessions.md
+[2024-03-27 16:31:46.010]	     | 	docs/save_dir.md
+[2024-03-27 16:31:46.010]	     | 	resurrect.tmux
+[2024-03-27 16:31:46.010]	     | 	run_tests
+[2024-03-27 16:31:46.010]	     | 	save_command_strategies/gdb.sh
+[2024-03-27 16:31:46.010]	     | 	save_command_strategies/linux_procfs.sh
+[2024-03-27 16:31:46.010]	     | 	save_command_strategies/pgrep.sh
+[2024-03-27 16:31:46.010]	     | 	save_command_strategies/ps.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/check_tmux_version.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/helpers.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/process_restore_helpers.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/restore.exp
+[2024-03-27 16:31:46.010]	     | 	scripts/restore.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/save.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/spinner_helpers.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/tmux_spinner.sh
+[2024-03-27 16:31:46.010]	     | 	scripts/variables.sh
+[2024-03-27 16:31:46.010]	     | 	strategies/irb_default_strategy.sh
+[2024-03-27 16:31:46.010]	     | 	strategies/mosh-client_default_strategy.sh
+[2024-03-27 16:31:46.010]	     | 	strategies/nvim_session.sh
+[2024-03-27 16:31:46.010]	     | 	strategies/vim_session.sh
+[2024-03-27 16:31:46.010]	     | 	tests/fixtures/restore_file.txt
+[2024-03-27 16:31:46.010]	     | 	tests/fixtures/save_file.txt
+[2024-03-27 16:31:46.010]	     | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2024-03-27 16:31:46.010]	     | 	tests/helpers/expect_helpers.exp
+[2024-03-27 16:31:46.010]	     | 	tests/helpers/helpers.sh
+[2024-03-27 16:31:46.010]	     | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2024-03-27 16:31:46.010]	     | 	tests/helpers/resurrect_helpers.sh
+[2024-03-27 16:31:46.010]	     | 	tests/run_tests_in_isolation
+[2024-03-27 16:31:46.010]	     | 	tests/test_resurrect_restore.sh
+[2024-03-27 16:31:46.010]	     | 	tests/test_resurrect_save.sh
+[2024-03-27 16:31:46.010]	     | 	video/issue_vid.png
+[2024-03-27 16:31:46.010]	     | 	video/screencast_img.png
+[2024-03-27 16:31:46.010]	     | 	video/script.md
+[2024-03-27 16:31:46.010]	     | Please move or remove them before you merge.
+[2024-03-27 16:31:46.010]	     | Aborting
+[2024-03-27 16:31:46.621]	   "tmux" update fail
+[2024-03-27 16:31:46.626]	     | From https://github.com/dracula/tmux
+[2024-03-27 16:31:46.626]	     |  * branch            HEAD       -> FETCH_HEAD
+[2024-03-27 16:31:46.626]	     | error: The following untracked working tree files would be overwritten by merge:
+[2024-03-27 16:31:46.626]	     | 	.editorconfig
+[2024-03-27 16:31:46.626]	     | 	.github/ISSUE_TEMPLATE/bug-report.md
+[2024-03-27 16:31:46.626]	     | 	.github/ISSUE_TEMPLATE/feature_request.md
+[2024-03-27 16:31:46.626]	     | 	.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+[2024-03-27 16:31:46.626]	     | 	.github/workflows/check-syntax.yml
+[2024-03-27 16:31:46.626]	     | 	.gitignore
+[2024-03-27 16:31:46.626]	     | 	.gitmodules
+[2024-03-27 16:31:46.626]	     | 	INSTALL.md
+[2024-03-27 16:31:46.626]	     | 	LICENSE
+[2024-03-27 16:31:46.626]	     | 	README.md
+[2024-03-27 16:31:46.626]	     | 	data/.gitkeep
+[2024-03-27 16:31:46.626]	     | 	dracula.tmux
+[2024-03-27 16:31:46.626]	     | 	screenshot.png
+[2024-03-27 16:31:46.626]	     | 	scripts/attached_clients.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/battery.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/continuum.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/cpu_info.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/cwd.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/dracula.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/fossil.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/git.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/gpu_power.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/gpu_ram_info.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/gpu_usage.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/hg.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/kubernetes_context.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/mpc.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/network.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/network_bandwidth.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/network_ping.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/network_vpn.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/ram_info.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/spotify-tui.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/ssh_session.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/synchronize_panes.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/terraform.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/tmux_ram_info.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/utils.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/weather.sh
+[2024-03-27 16:31:46.626]	     | 	scripts/weather_wrapper.sh
+[2024-03-27 16:31:46.626]	     | Please move or remove them before you merge.
+[2024-03-27 16:31:46.626]	     | Aborting
+[2024-03-27 16:31:46.643]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:46.696]	 Done.
+
+[2024-03-27 16:31:44.725]	 Installing "tmux-cpu"
+[2024-03-27 16:31:44.726]	 Installing "tmux-copycat"
+[2024-03-27 16:31:44.726]	 Installing "tmux-mem-cpu-load"
+[2024-03-27 16:31:44.726]	 Installing "tmux-resurrect"
+[2024-03-27 16:31:44.727]	 Installing "tmux-continuum"
+[2024-03-27 16:31:44.727]	 Installing "tmux"
+[2024-03-27 16:31:45.264]	   "tmux-mem-cpu-load" download fail
+[2024-03-27 16:31:45.702]	   "tmux-cpu" download success
+[2024-03-27 16:31:45.769]	   "tmux-continuum" download success
+[2024-03-27 16:31:45.841]	   "tmux-copycat" download success
+[2024-03-27 16:31:46.029]	   "tmux" download success
+[2024-03-27 16:31:46.982]	   "tmux-resurrect" download success
+[2024-03-27 16:31:46.995]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/update_plugins all
+[2024-03-27 16:31:47.014]	 Updating all plugins!
+[2024-03-27 16:31:47.015]	 
+[2024-03-27 16:31:47.034]	 Invoking /Users/sigurdskatvedt/.config/tmux/plugins//tpm/bin/clean_plugins all
+[2024-03-27 16:31:47.065]	 Removing "tmux"
+[2024-03-27 16:31:47.070]	   "tmux" clean success
+[2024-03-27 16:31:47.071]	 Removing "tmux-continuum"
+[2024-03-27 16:31:47.075]	   "tmux-continuum" clean success
+[2024-03-27 16:31:47.077]	 Removing "tmux-copycat"
+[2024-03-27 16:31:47.082]	   "tmux-copycat" clean success
+[2024-03-27 16:31:47.084]	 Removing "tmux-cpu"
+[2024-03-27 16:31:47.088]	   "tmux-cpu" clean success
+[2024-03-27 16:31:47.090]	 Removing "tmux-resurrect"
+[2024-03-27 16:31:47.098]	   "tmux-resurrect" clean success
+[2024-03-27 16:31:47.109]	 Done.
+
