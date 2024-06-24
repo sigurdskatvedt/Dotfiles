@@ -1,7 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR --export CC:/usr/local/bin/clang
-SETUVAR --export CXX:/usr/local/bin/clang\x2b\x2b
+SETUVAR --export CXX:/usr/bin/g\x2b\x2b
 SETUVAR --export OPENAI_API_KEY:sk\x2d17EI6a6A1UeU3JGpkO14T3BlbkFJQFGPRMjon4Ie8jCfmwmu
 SETUVAR --export PYENV_ROOT:/Users/sigurdskatvedt/\x2epyenv
 SETUVAR __fish_initialized:3400
@@ -40,5 +40,5 @@ SETUVAR fish_pager_color_description:B3A06D\x1eyellow\x1e\x2di
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
-SETUVAR fish_user_paths:/opt/homebrew/opt/bison/bin\x1e/opt/homebrew/opt/libiodbc/bin\x1e/Users/sigurdskatvedt/\x2epyenv/bin\x1e/Users/sigurdskatvedt/Downloads/sonar\x2dscanner\x2d4\x2e7\x2e0\x2e2747\x2dmacosx/bin\x1e/opt/homebrew/bin\x1e/Users/sigurdskatvedt/\x2ebin\x1e/Users/sigurdskatvedt/\x2elocal/bin\x1e/Users/sigurdskatvedt/\x2econfig/emacs/bin\x1e/Users/sigurdskatvedt/Applications\x1e/var/lib/flatpak/exports/bin/\x1e/Users/sigurdskatvedt/\x2efzf/bin
+SETUVAR --export fish_user_paths:/usr/local/bin\x1e/Applications/Xcode\x2eapp/Contents/Developer/Toolchains/XcodeDefault\x2exctoolchain/usr/bin\x1e/opt/homebrew/opt/bison/bin\x1e/opt/homebrew/opt/libiodbc/bin\x1e/Users/sigurdskatvedt/\x2epyenv/bin\x1e/Users/sigurdskatvedt/Downloads/sonar\x2dscanner\x2d4\x2e7\x2e0\x2e2747\x2dmacosx/bin\x1e/opt/homebrew/bin\x1e/Users/sigurdskatvedt/\x2ebin\x1e/Users/sigurdskatvedt/\x2elocal/bin\x1e/Users/sigurdskatvedt/\x2econfig/emacs/bin\x1e/Users/sigurdskatvedt/Applications\x1e/var/lib/flatpak/exports/bin/\x1e/Users/sigurdskatvedt/\x2efzf/bin
 SETUVAR nvm_default_version:v20\x2e3\x2e1

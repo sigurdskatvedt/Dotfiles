@@ -21,20 +21,13 @@ require("lazy").setup({
     { 'lewis6991/gitsigns.nvim', },
     { 'lukas-reineke/indent-blankline.nvim', main = 'ibl', },
     { 'folke/todo-comments.nvim', },
+    { 'mfussenegger/nvim-dap' },
     { 'xiyaowong/transparent.nvim', },
     { 'barrett-ruth/import-cost.nvim', },
-    {
-      'nvim-neorg/neorg',
-      build = ':Neorg sync-parsers'
-      ,
-      dependencies =
-      'nvim-lua/plenary.nvim'
-    },
-    { 'nvim-neorg/neorg-telescope', },
-    { 'kylechui/nvim-surround',     version = '*', },
-    { 'akinsho/git-conflict.nvim',  version = '*', },
+    { 'kylechui/nvim-surround',              version = '*', },
+    { 'akinsho/git-conflict.nvim',           version = '*', },
     { 'numToStr/Comment.nvim', },
-    { 'Wansmer/treesj',             dependencies = 'nvim-treesitter' },
+    { 'Wansmer/treesj',                      dependencies = 'nvim-treesitter' },
     {
       'ThePrimeagen/refactoring.nvim'
       ,
@@ -64,6 +57,11 @@ require("lazy").setup({
 
     },
     { 'hrsh7th/nvim-cmp' },
+    {
+      'mrcjkb/rustaceanvim',
+      version = '^4', -- Recommended
+      lazy = false, -- This plugin is already lazy
+    },
     { 'hrsh7th/cmp-nvim-lsp' },
     {
       "L3MON4D3/LuaSnip",
@@ -73,38 +71,31 @@ require("lazy").setup({
       build = "make install_jsregexp"
     },
 
-    {
-      "epwalsh/obsidian.nvim",
-      version = "*", -- recommended, use latest release instead of latest commit
-      lazy = true,
-      ft = "markdown",
-      -- Replace the above line with this if you only want to load obsidian.nvim for markdown files in your vault:
-      -- event = {
-      --   -- If you want to use the home shortcut '~' here you need to call 'vim.fn.expand'.
-      --   -- E.g. "BufReadPre " .. vim.fn.expand "~" .. "/my-vault/**.md"
-      --   "BufReadPre path/to/my-vault/**.md",
-      --   "BufNewFile path/to/my-vault/**.md",
-      -- },
-      dependencies = {
-        -- Required.
-        "nvim-lua/plenary.nvim",
-
-        -- see below for full list of optional dependencies 👇
-      },
-      opts = {
-        workspaces = {
-          {
-            name = "personal",
-            path = "~/vaults/personal",
-          },
-          {
-            name = "work",
-            path = "~/vaults/work",
-          },
-        },
-
-        -- see below for full list of options 👇
-      },
-    }
+    -- {
+    --   "epwalsh/obsidian.nvim",
+    --   version = "*", -- recommended, use latest release instead of latest commit
+    --   lazy = true,
+    --   ft = "markdown",
+    --   dependencies = {
+    --     -- Required.
+    --     "nvim-lua/plenary.nvim",
+    --
+    --     -- see below for full list of optional dependencies 👇
+    --   },
+    --   opts = {
+    --     workspaces = {
+    --       {
+    --         name = "personal",
+    --         path = "~/vaults/personal",
+    --       },
+    --       {
+    --         name = "work",
+    --         path = "~/vaults/work",
+    --       },
+    --     },
+    --
+    --     -- see below for full list of options 👇
+    --   },
+    -- }
   }
 })

@@ -137,3 +137,5 @@ function cpwd
 end
 set -gx PATH /opt/homebrew/opt/qt@5/bin $PATH
 set -gx PATH /opt/homebrew/opt/pyqt@5/5.15.4_1/bin $PATH
+set -x SDKROOT (xcrun --show-sdk-path)
+
